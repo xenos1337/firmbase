@@ -1,0 +1,25 @@
+{
+    "id": "starbucks",
+    "name": "Starbucks",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "CAFE",
+    "website": "https://starbucks.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "starbucks.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "starbucks",
+        "starbucks coffee",
+        "sbux"
+    ],
+    "regex": [
+        "^starbucks",
+        "^sbux"
+    ]
+}
