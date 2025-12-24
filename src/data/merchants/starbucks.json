@@ -15,11 +15,9 @@
     "risk_level": "LOW",
     "aliases": [
         "starbucks",
-        "starbucks coffee",
-        "sbux"
+        "starbucks coffee"
     ],
     "regex": [
-        "^starbucks",
-        "^sbux"
+        "^starbucks"
     ]
 }

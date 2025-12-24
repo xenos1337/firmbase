@@ -11,7 +11,7 @@
     "merchant_channel": "HYBRID",
     "merchant_scope": "GLOBAL",
     "subscription_likely": false,
-    "is_marketplace": true,
+    "is_marketplace": false,
     "risk_level": "LOW",
     "aliases": [
         "uber",
