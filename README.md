@@ -247,4 +247,4 @@ Regex patterns should identify **brand families**, not specific products:
 
 ## License
 
-MIT
+Free to use, modify, and self-host. No commercial use. See [LICENSE](LICENSE.md).

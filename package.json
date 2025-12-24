@@ -12,7 +12,7 @@
         "start": "node dist/server.js",
         "lint": "tsc --noEmit"
     },
-    "license": "MIT",
+    "license": "LICENSE.md",
     "dependencies": {
         "fastify": "^5.6.2"
     },
