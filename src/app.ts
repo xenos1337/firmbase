@@ -4,16 +4,17 @@ import { merchantRoutes } from "./routes/merchant.js";
 
 export async function buildApp(): Promise<FastifyInstance> {
 	const fastify = Fastify({
-		logger: true,
+		logger: false,
 	});
 
 	const merchants = loadMerchants();
 
 	await fastify.register(merchantRoutes, { merchants });
 
-	fastify.get("/health", async () => {
-		return { status: "ok", merchants: merchants.size };
-	});
+	const healthHandler = async () => ({ status: "ok", merchants: merchants.size });
+
+	fastify.get("/", healthHandler);
+	fastify.get("/health", healthHandler);
 
 	return fastify;
 }
