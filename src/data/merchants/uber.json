@@ -1,0 +1,30 @@
+{
+    "id": "uber",
+    "name": "Uber",
+    "category": "TRANSPORT",
+    "subcategory": "RIDE_SHARING",
+    "website": "https://uber.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "uber.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "uber",
+        "uber trip",
+        "uber eats",
+        "ubereats",
+        "uber eat",
+        "uber ride",
+        "uber bv",
+        "uber technologies",
+        "uber lime"
+    ],
+    "regex": [
+        "^uber"
+    ]
+}
