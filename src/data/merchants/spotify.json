@@ -1,0 +1,25 @@
+{
+    "id": "spotify",
+    "name": "Spotify",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://spotify.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "spotify.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "spotify",
+        "spotify ab",
+        "spotify usa",
+        "spotify premium"
+    ],
+    "regex": [
+        "^spotify"
+    ]
+}
