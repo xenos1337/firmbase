@@ -1,0 +1,24 @@
+{
+    "name": "firmbase",
+    "version": "1.0.0",
+    "main": "dist/server.js",
+    "type": "module",
+    "engines": {
+        "node": ">=22.0.0"
+    },
+    "scripts": {
+        "dev": "tsx watch src/server.ts",
+        "build": "tsc",
+        "start": "node dist/server.js",
+        "lint": "tsc --noEmit"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "fastify": "^4.28.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.17.10",
+        "tsx": "^4.19.2",
+        "typescript": "^5.7.2"
+    }
+}
