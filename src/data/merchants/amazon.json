@@ -1,0 +1,29 @@
+{
+    "id": "amazon",
+    "name": "Amazon",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://amazon.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "amazon.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "amazon",
+        "amazon com",
+        "amzn",
+        "amzn mktp",
+        "amazon mktplace",
+        "amazon marketplace",
+        "amazon prime"
+    ],
+    "regex": [
+        "^amzn",
+        "^amazon"
+    ]
+}
