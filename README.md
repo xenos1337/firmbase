@@ -239,11 +239,7 @@ Regex patterns should identify **brand families**, not specific products:
 
 ## Contributing
 
-1. Fork the repo
-2. Add your merchant JSON file to `src/data/merchants/`
-3. Ensure aliases are pre-normalized
-4. Test locally with `npm run dev`
-5. Submit a PR
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding merchants and submitting changes.
 
 ## License
 
