@@ -1,0 +1,23 @@
+{
+    "id": "netflix",
+    "name": "Netflix",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://netflix.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "netflix.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "netflix",
+        "netflix com"
+    ],
+    "regex": [
+        "^netflix"
+    ]
+}
