@@ -14,6 +14,7 @@
     "is_marketplace": true,
     "risk_level": "LOW",
     "aliases": [
-        "vinted"
+        "vinted",
+        "mangopay"
     ]
 }

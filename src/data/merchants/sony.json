@@ -1,0 +1,26 @@
+{
+    "id": "sony",
+    "name": "Sony",
+    "category": "SHOPPING",
+    "subcategory": "ELECTRONICS",
+    "website": "https://www.sony.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "sony.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "sony",
+        "sony playstation",
+        "playstation",
+        "psn"
+    ],
+    "regex": [
+        "worldpay.*sony",
+        "^sony"
+    ]
+}
