@@ -1,0 +1,22 @@
+{
+    "id": "trade-republic",
+    "name": "Trade Republic",
+    "category": "FINANCE",
+    "subcategory": "INVESTMENTS",
+    "website": "https://traderepublic.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "traderepublic.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "trade republic"
+    ],
+    "regex": [
+        "^trade republic"
+    ]
+}
