@@ -1,0 +1,20 @@
+{
+    "id": "ikea",
+    "name": "IKEA",
+    "category": "HOME",
+    "subcategory": "FURNITURE",
+    "website": "https://www.ikea.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "ikea.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "ikea",
+        "ikea moebel"
+    ]
+}

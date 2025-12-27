@@ -1,0 +1,21 @@
+{
+    "id": "hagebaumarkt",
+    "name": "Hagebaumarkt",
+    "category": "HOME",
+    "subcategory": "IMPROVEMENT",
+    "website": "https://www.hagebau.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "hagebau.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "hagebaumarkt",
+        "hagebau",
+        "hage baumarkt"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "obi",
+    "name": "OBI",
+    "category": "HOME",
+    "subcategory": "IMPROVEMENT",
+    "website": "https://www.obi.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "obi.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "obi",
+        "obi sagt danke",
+        "obi baumarkt",
+        "obi markt"
+    ]
+}

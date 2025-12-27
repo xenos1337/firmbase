@@ -1,0 +1,22 @@
+{
+    "id": "herkules-bau-garten",
+    "name": "Herkules Bau & Garten",
+    "category": "HOME",
+    "subcategory": "IMPROVEMENT",
+    "website": "https://www.herkules-bau-garten.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "herkules-bau-garten.de"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "herkules bau",
+        "herkules bau-und garten",
+        "herkules bau und garten",
+        "herkules baumarkt"
+    ]
+}
