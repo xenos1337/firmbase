@@ -1,0 +1,21 @@
+{
+    "id": "shell",
+    "name": "Shell",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://www.shell.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "shell.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "shell",
+        "shell station",
+        "shell tankstelle"
+    ]
+}

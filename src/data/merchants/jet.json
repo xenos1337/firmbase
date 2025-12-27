@@ -1,0 +1,21 @@
+{
+    "id": "jet",
+    "name": "JET",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://www.jet.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "jet.de"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "jet",
+        "jet tankstelle",
+        "jet-tankstelle"
+    ]
+}

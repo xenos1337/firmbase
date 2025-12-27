@@ -1,0 +1,20 @@
+{
+    "id": "chevron",
+    "name": "Chevron",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://www.chevron.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "chevron.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "chevron",
+        "chevron station"
+    ]
+}

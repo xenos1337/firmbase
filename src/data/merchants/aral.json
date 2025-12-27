@@ -1,0 +1,22 @@
+{
+    "id": "aral",
+    "name": "Aral",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://www.aral.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "aral.de"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "aral",
+        "aral ag",
+        "aral station",
+        "aral tankstelle"
+    ]
+}
