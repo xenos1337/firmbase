@@ -1,0 +1,22 @@
+{
+    "id": "binance",
+    "name": "Binance",
+    "category": "FINANCE",
+    "subcategory": "CRYPTO",
+    "website": "https://www.binance.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "binance.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "binance",
+        "binance holdings",
+        "binance.us",
+        "binance pay"
+    ]
+}

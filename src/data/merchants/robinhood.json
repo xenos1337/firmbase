@@ -1,0 +1,22 @@
+{
+    "id": "robinhood",
+    "name": "Robinhood",
+    "category": "FINANCE",
+    "subcategory": "TRADING",
+    "website": "https://www.robinhood.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "robinhood.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "robinhood",
+        "robinhood markets",
+        "robinhood gold",
+        "robinhood crypto"
+    ]
+}

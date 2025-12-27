@@ -1,0 +1,23 @@
+{
+    "id": "coinbase",
+    "name": "Coinbase",
+    "category": "FINANCE",
+    "subcategory": "CRYPTO",
+    "website": "https://www.coinbase.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "coinbase.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "coinbase",
+        "coinbase inc",
+        "coinbase pro",
+        "coinbase wallet",
+        "coinbase one"
+    ]
+}
