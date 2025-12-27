@@ -3,10 +3,10 @@
     "name": "Team Water",
     "category": "GIFTS_AND_DONATIONS",
     "subcategory": "CHARITY",
-    "website": "https://www.charitywater.org",
+    "website": "https://teamwater.org",
     "logo_hint": {
         "type": "DOMAIN",
-        "value": "charitywater.org"
+        "value": "teamwater.org"
     },
     "merchant_channel": "ONLINE",
     "merchant_scope": "GLOBAL",
@@ -16,8 +16,6 @@
     "aliases": [
         "teamwater",
         "#teamwater",
-        "team water",
-        "charity water",
-        "charitywater"
+        "team water"
     ]
 }
