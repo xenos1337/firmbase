@@ -1,0 +1,20 @@
+{
+    "id": "revisionfx",
+    "name": "RevisionFX",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://revisionfx.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "revisionfx.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "revisionfx",
+        "revision fx"
+    ]
+}

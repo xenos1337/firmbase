@@ -1,0 +1,23 @@
+{
+    "id": "adobe",
+    "name": "Adobe",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.adobe.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "adobe.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "adobe",
+        "adobe inc",
+        "adobe.com",
+        "adobe systems",
+        "adobe creative cloud"
+    ]
+}
