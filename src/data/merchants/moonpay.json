@@ -1,0 +1,23 @@
+{
+    "id": "moonpay",
+    "name": "MoonPay",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://www.moonpay.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "moonpay.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "moonpay",
+        "moon pay"
+    ],
+    "regex": [
+        "^moonpay"
+    ]
+}

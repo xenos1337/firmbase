@@ -1,0 +1,22 @@
+{
+    "id": "mysterium",
+    "name": "Mysterium Network",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://mysterium.network",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "mysterium.network"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "mysterium",
+        "mysterium network",
+        "blockdev ag",
+        "blockdev"
+    ]
+}
