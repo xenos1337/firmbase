@@ -1,0 +1,20 @@
+{
+    "id": "carvertical",
+    "name": "carVertical",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.carvertical.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "carvertical.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "carvertical",
+        "car vertical"
+    ]
+}
