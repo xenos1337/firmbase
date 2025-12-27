@@ -12,7 +12,7 @@
     "merchant_scope": "GLOBAL",
     "subscription_likely": false,
     "is_marketplace": false,
-    "risk_level": "LOW",
+    "risk_level": "MEDIUM",
     "aliases": [
         "western union",
         "westernunion"
