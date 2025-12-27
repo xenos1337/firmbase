@@ -1,0 +1,26 @@
+{
+    "id": "lufthansa",
+    "name": "Lufthansa",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://www.lufthansa.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lufthansa.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "lufthansa",
+        "deutsche lufthansa",
+        "deutsche lufthansa ag",
+        "lufthansa retail",
+        "lufthansa retail inmot"
+    ],
+    "regex": [
+        "^lufthan"
+    ]
+}
