@@ -18,13 +18,16 @@
         "amazon com",
         "amazon de",
         "amazon eu",
+        "amazon eu sarl",
+        "amazon payments europe",
+        "amazon prime",
+        "amazon prime pmts",
         "amazon retail",
         "amzn",
         "amzn mktp",
         "amzn mktp de",
         "amazon mktplace",
-        "amazon marketplace",
-        "amazon prime"
+        "amazon marketplace"
     ],
     "regex": [
         "^amzn",

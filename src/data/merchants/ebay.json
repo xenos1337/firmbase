@@ -15,6 +15,13 @@
     "risk_level": "LOW",
     "aliases": [
         "ebay",
-        "ebay inc"
+        "ebay inc",
+        "ebay sarl",
+        "ebay micro deposit",
+        "ebay penny test",
+        "payment from ebay"
+    ],
+    "regex": [
+        "^ebay"
     ]
 }
