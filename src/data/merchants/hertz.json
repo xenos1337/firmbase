@@ -1,0 +1,23 @@
+{
+    "id": "hertz",
+    "name": "Hertz",
+    "category": "TRANSPORTATION",
+    "subcategory": "CAR_RENTAL",
+    "website": "https://www.hertz.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "hertz.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "hertz",
+        "hertz corporation",
+        "hertz rent a car",
+        "dollar rent a car",
+        "thrifty car rental"
+    ]
+}

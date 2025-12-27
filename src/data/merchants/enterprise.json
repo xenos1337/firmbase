@@ -1,0 +1,23 @@
+{
+    "id": "enterprise",
+    "name": "Enterprise",
+    "category": "TRANSPORTATION",
+    "subcategory": "CAR_RENTAL",
+    "website": "https://www.enterprise.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "enterprise.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "enterprise",
+        "enterprise rent a car",
+        "enterprise holdings",
+        "national car rental",
+        "alamo rent a car"
+    ]
+}

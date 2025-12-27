@@ -1,0 +1,22 @@
+{
+    "id": "sixt",
+    "name": "Sixt",
+    "category": "TRANSPORTATION",
+    "subcategory": "CAR_RENTAL",
+    "website": "https://www.sixt.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "sixt.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "sixt",
+        "sixt se",
+        "sixt rent a car",
+        "sixt share"
+    ]
+}
