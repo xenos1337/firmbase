@@ -1,0 +1,22 @@
+{
+    "id": "discover",
+    "name": "Discover",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.discover.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "discover.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "discover",
+        "discover bank",
+        "discover financial",
+        "discover card"
+    ]
+}

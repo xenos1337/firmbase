@@ -1,0 +1,23 @@
+{
+    "id": "american-express",
+    "name": "American Express",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.americanexpress.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "americanexpress.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "american express",
+        "amex",
+        "americanexpress",
+        "amex travel",
+        "amex membership rewards"
+    ]
+}

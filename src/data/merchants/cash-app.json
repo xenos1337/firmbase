@@ -1,0 +1,27 @@
+{
+    "id": "cash-app",
+    "name": "Cash App",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://cash.app",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "cash.app"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "cash app",
+        "cashapp",
+        "square cash",
+        "block inc",
+        "cash app boost"
+    ],
+    "regex": [
+        "^cash app\\s*\\*",
+        "^sq\\s*\\*"
+    ]
+}
