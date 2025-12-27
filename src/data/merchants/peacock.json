@@ -1,0 +1,23 @@
+{
+    "id": "peacock",
+    "name": "Peacock",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://www.peacocktv.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "peacocktv.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "peacock",
+        "peacock tv",
+        "peacock premium",
+        "nbcuniversal",
+        "nbc peacock"
+    ]
+}

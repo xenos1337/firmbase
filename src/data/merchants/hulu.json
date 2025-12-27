@@ -1,0 +1,23 @@
+{
+    "id": "hulu",
+    "name": "Hulu",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://www.hulu.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "hulu.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "hulu",
+        "hulu llc",
+        "hulu plus",
+        "hulu live",
+        "hulu live tv"
+    ]
+}

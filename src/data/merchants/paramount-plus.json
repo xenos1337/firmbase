@@ -1,0 +1,23 @@
+{
+    "id": "paramount-plus",
+    "name": "Paramount+",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://www.paramountplus.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "paramountplus.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "paramount plus",
+        "paramount+",
+        "paramount",
+        "cbs all access",
+        "paramount global"
+    ]
+}

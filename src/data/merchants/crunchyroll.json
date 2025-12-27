@@ -1,0 +1,22 @@
+{
+    "id": "crunchyroll",
+    "name": "Crunchyroll",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://www.crunchyroll.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "crunchyroll.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "crunchyroll",
+        "crunchyroll llc",
+        "crunchyroll premium",
+        "funimation"
+    ]
+}

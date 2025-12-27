@@ -1,0 +1,22 @@
+{
+    "id": "soundcloud",
+    "name": "SoundCloud",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://www.soundcloud.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "soundcloud.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "soundcloud",
+        "soundcloud go",
+        "soundcloud go plus",
+        "soundcloud pro"
+    ]
+}

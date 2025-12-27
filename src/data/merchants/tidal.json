@@ -1,0 +1,22 @@
+{
+    "id": "tidal",
+    "name": "Tidal",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://www.tidal.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "tidal.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "tidal",
+        "tidal music",
+        "tidal hifi",
+        "tidal premium"
+    ]
+}
