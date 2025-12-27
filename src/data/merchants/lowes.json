@@ -1,0 +1,21 @@
+{
+    "id": "lowes",
+    "name": "Lowe's",
+    "category": "HOME",
+    "subcategory": "IMPROVEMENT",
+    "website": "https://www.lowes.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lowes.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "lowes",
+        "lowe's",
+        "lowes home improvement"
+    ]
+}

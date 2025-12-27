@@ -1,0 +1,20 @@
+{
+    "id": "costco",
+    "name": "Costco",
+    "category": "SHOPPING",
+    "subcategory": "DEPARTMENT_STORE",
+    "website": "https://www.costco.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "costco.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "costco",
+        "costco wholesale"
+    ]
+}

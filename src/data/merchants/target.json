@@ -1,0 +1,20 @@
+{
+    "id": "target",
+    "name": "Target",
+    "category": "SHOPPING",
+    "subcategory": "DEPARTMENT_STORE",
+    "website": "https://www.target.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "target.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "target",
+        "target store"
+    ]
+}

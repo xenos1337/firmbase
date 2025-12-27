@@ -1,0 +1,22 @@
+{
+    "id": "galeria-kaufhof",
+    "name": "Galeria Kaufhof",
+    "category": "SHOPPING",
+    "subcategory": "DEPARTMENT_STORE",
+    "website": "https://www.galeria.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "galeria.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "galeria",
+        "galeria kaufhof",
+        "kaufhof",
+        "galeria karstadt kaufhof"
+    ]
+}

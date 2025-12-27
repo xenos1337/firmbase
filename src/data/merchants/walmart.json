@@ -1,0 +1,22 @@
+{
+    "id": "walmart",
+    "name": "Walmart",
+    "category": "SHOPPING",
+    "subcategory": "DEPARTMENT_STORE",
+    "website": "https://www.walmart.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "walmart.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "walmart",
+        "wal mart",
+        "wal-mart",
+        "walmart supercenter"
+    ]
+}
