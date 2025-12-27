@@ -1,0 +1,20 @@
+{
+    "id": "notion",
+    "name": "Notion",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.notion.so",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "notion.so"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "notion",
+        "notion labs"
+    ]
+}

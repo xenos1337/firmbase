@@ -1,0 +1,21 @@
+{
+    "id": "zoom",
+    "name": "Zoom",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://zoom.us",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "zoom.us"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "zoom",
+        "zoom video",
+        "zoom communications"
+    ]
+}
