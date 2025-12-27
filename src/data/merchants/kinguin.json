@@ -1,0 +1,19 @@
+{
+    "id": "kinguin",
+    "name": "Kinguin",
+    "category": "ENTERTAINMENT",
+    "subcategory": "GAMING",
+    "website": "https://www.kinguin.net",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "kinguin.net"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "kinguin"
+    ]
+}

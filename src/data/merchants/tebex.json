@@ -1,0 +1,20 @@
+{
+    "id": "tebex",
+    "name": "Tebex",
+    "category": "ENTERTAINMENT",
+    "subcategory": "GAMING",
+    "website": "https://tebex.io",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "tebex.io"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "tebex",
+        "tebex org"
+    ]
+}

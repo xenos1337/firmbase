@@ -1,0 +1,26 @@
+{
+    "id": "steam",
+    "name": "Steam",
+    "category": "ENTERTAINMENT",
+    "subcategory": "GAMING",
+    "website": "https://store.steampowered.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "steampowered.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "steam",
+        "steam purchase",
+        "steamgames",
+        "steampowered",
+        "valve steam"
+    ],
+    "regex": [
+        "^steam"
+    ]
+}
