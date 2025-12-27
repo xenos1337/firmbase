@@ -1,0 +1,21 @@
+{
+    "id": "booking",
+    "name": "Booking.com",
+    "category": "TRAVEL",
+    "subcategory": "HOTELS",
+    "website": "https://www.booking.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "booking.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "booking",
+        "booking com",
+        "bookingcom"
+    ]
+}

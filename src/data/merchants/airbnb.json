@@ -1,0 +1,20 @@
+{
+    "id": "airbnb",
+    "name": "Airbnb",
+    "category": "TRAVEL",
+    "subcategory": "VACATION_RENTALS",
+    "website": "https://www.airbnb.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "airbnb.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "airbnb",
+        "airbnb inc"
+    ]
+}

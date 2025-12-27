@@ -1,0 +1,26 @@
+{
+    "id": "hilton",
+    "name": "Hilton",
+    "category": "TRAVEL",
+    "subcategory": "HOTELS",
+    "website": "https://www.hilton.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "hilton.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "hilton",
+        "hilton hotels",
+        "hilton honors",
+        "hampton inn",
+        "doubletree",
+        "embassy suites",
+        "conrad",
+        "waldorf astoria"
+    ]
+}
