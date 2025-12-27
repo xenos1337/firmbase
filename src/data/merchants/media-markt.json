@@ -1,0 +1,21 @@
+{
+    "id": "media-markt",
+    "name": "Media Markt",
+    "category": "SHOPPING",
+    "subcategory": "ELECTRONICS",
+    "website": "https://www.mediamarkt.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "mediamarkt.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "media markt",
+        "mediamarkt",
+        "media market"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "elkjop",
+    "name": "Elkjøp",
+    "category": "SHOPPING",
+    "subcategory": "ELECTRONICS",
+    "website": "https://www.elkjop.no",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "elkjop.no"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "elkjop",
+        "elkjøp",
+        "elko"
+    ]
+}
