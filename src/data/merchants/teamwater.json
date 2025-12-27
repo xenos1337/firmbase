@@ -1,0 +1,23 @@
+{
+    "id": "teamwater",
+    "name": "Team Water",
+    "category": "GIFTS_AND_DONATIONS",
+    "subcategory": "CHARITY",
+    "website": "https://www.charitywater.org",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "charitywater.org"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "teamwater",
+        "#teamwater",
+        "team water",
+        "charity water",
+        "charitywater"
+    ]
+}

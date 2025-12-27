@@ -1,0 +1,21 @@
+{
+    "id": "givealittle",
+    "name": "Givealittle",
+    "category": "GIFTS_AND_DONATIONS",
+    "subcategory": "CHARITY",
+    "website": "https://givealittle.co.nz",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "givealittle.co.nz"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "givealittle",
+        "give a little",
+        "givealittle foundation"
+    ]
+}
