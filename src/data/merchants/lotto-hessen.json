@@ -1,0 +1,20 @@
+{
+    "id": "lotto-hessen",
+    "name": "Lotto Hessen",
+    "category": "ENTERTAINMENT",
+    "subcategory": "LOTTERY",
+    "website": "https://www.lotto-hessen.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lotto-hessen.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "lotto hessen",
+        "lotto hessen gmbh"
+    ]
+}
