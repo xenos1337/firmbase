@@ -1,0 +1,19 @@
+{
+    "id": "narvesen",
+    "name": "Narvesen",
+    "category": "GROCERIES",
+    "subcategory": "CONVENIENCE",
+    "website": "https://www.narvesen.no",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "narvesen.no"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "narvesen"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "7-eleven",
+    "name": "7-Eleven",
+    "category": "GROCERIES",
+    "subcategory": "CONVENIENCE",
+    "website": "https://www.7-eleven.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "7-eleven.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "7 eleven",
+        "7eleven",
+        "seven eleven"
+    ]
+}
