@@ -3,11 +3,6 @@
     "name": "Fryd Kafé & Interiør",
     "category": "FOOD_AND_DRINK",
     "subcategory": "CAFE",
-    "website": "https://www.frydkafe.no",
-    "logo_hint": {
-        "type": "DOMAIN",
-        "value": "frydkafe.no"
-    },
     "merchant_channel": "PHYSICAL",
     "merchant_scope": "LOCAL",
     "subscription_likely": false,
