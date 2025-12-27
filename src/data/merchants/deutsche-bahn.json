@@ -1,0 +1,26 @@
+{
+    "id": "deutsche-bahn",
+    "name": "Deutsche Bahn",
+    "category": "TRANSPORTATION",
+    "subcategory": "RAIL",
+    "website": "https://www.bahn.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "bahn.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "deutsche bahn",
+        "deutsche bahn ag",
+        "db",
+        "db bahn",
+        "db vertrieb",
+        "db vertrieb gmbh",
+        "db fernverkehr",
+        "db regio"
+    ]
+}

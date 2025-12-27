@@ -1,0 +1,24 @@
+{
+    "id": "fraport",
+    "name": "Fraport",
+    "category": "TRANSPORTATION",
+    "subcategory": "AIRPORT",
+    "website": "https://www.fraport.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "fraport.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "fraport",
+        "fraport ag",
+        "frasec",
+        "frasec services",
+        "frasec services gmbh",
+        "frankfurt airport"
+    ]
+}
