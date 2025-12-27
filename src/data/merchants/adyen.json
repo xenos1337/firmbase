@@ -1,0 +1,20 @@
+{
+    "id": "adyen",
+    "name": "Adyen",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://www.adyen.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "adyen.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "adyen",
+        "adyen nv"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "wise",
+    "name": "Wise",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://wise.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "wise.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "wise",
+        "transferwise"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "payback",
+    "name": "Payback",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://www.payback.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "payback.de"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "payback",
+        "payback rabattverein",
+        "payback punkteauszahlung"
+    ],
+    "regex": [
+        "payback"
+    ]
+}

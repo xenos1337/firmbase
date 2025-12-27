@@ -1,0 +1,19 @@
+{
+    "id": "xoom",
+    "name": "Xoom",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://www.xoom.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "xoom.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "xoom"
+    ]
+}

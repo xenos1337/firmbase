@@ -1,0 +1,21 @@
+{
+    "id": "shop-pay",
+    "name": "Shop Pay",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://shop.app",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "shop.app"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "shop pay",
+        "shoppay",
+        "shopify pay"
+    ]
+}

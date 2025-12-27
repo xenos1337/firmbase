@@ -1,0 +1,20 @@
+{
+    "id": "western-union",
+    "name": "Western Union",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://www.westernunion.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "westernunion.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "western union",
+        "westernunion"
+    ]
+}
