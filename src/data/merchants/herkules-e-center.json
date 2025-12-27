@@ -1,0 +1,24 @@
+{
+    "id": "herkules-e-center",
+    "name": "Herkules E-Center",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://www.herkules-ecenter.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "herkules-ecenter.de"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "herkules",
+        "herkules e-center",
+        "herkules ecenter",
+        "herkules markt",
+        "e-center",
+        "e center"
+    ]
+}

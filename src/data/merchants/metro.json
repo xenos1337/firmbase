@@ -1,0 +1,22 @@
+{
+    "id": "metro",
+    "name": "Metro",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://www.metro.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "metro.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "metro",
+        "metro sagt danke",
+        "metro markt",
+        "metro wholesale"
+    ]
+}

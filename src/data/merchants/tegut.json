@@ -1,0 +1,21 @@
+{
+    "id": "tegut",
+    "name": "Tegut",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://www.tegut.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "tegut.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "tegut",
+        "tegut markt",
+        "tegut gute lebensmittel"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "lidl",
+    "name": "Lidl",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://www.lidl.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lidl.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "lidl",
+        "lidl sagt danke",
+        "lidl markt",
+        "lidl stiftung"
+    ]
+}

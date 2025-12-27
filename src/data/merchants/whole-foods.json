@@ -1,0 +1,22 @@
+{
+    "id": "whole-foods",
+    "name": "Whole Foods",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://www.wholefoodsmarket.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "wholefoodsmarket.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "whole foods",
+        "whole foods market",
+        "wholefoods",
+        "wfm"
+    ]
+}

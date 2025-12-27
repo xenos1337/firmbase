@@ -1,0 +1,21 @@
+{
+    "id": "edeka",
+    "name": "Edeka",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://www.edeka.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "edeka.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "edeka",
+        "edeka markt",
+        "edeka center"
+    ]
+}
