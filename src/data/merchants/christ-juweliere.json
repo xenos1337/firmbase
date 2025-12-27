@@ -1,0 +1,22 @@
+{
+    "id": "christ-juweliere",
+    "name": "Christ Juweliere",
+    "category": "SHOPPING",
+    "subcategory": "CLOTHING",
+    "website": "https://www.christ.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "christ.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "christ",
+        "christ juweliere",
+        "christ juweliere gmbh",
+        "christ uhren schmuck"
+    ]
+}

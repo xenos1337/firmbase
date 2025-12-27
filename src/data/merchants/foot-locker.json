@@ -1,0 +1,20 @@
+{
+    "id": "foot-locker",
+    "name": "Foot Locker",
+    "category": "SHOPPING",
+    "subcategory": "CLOTHING",
+    "website": "https://www.footlocker.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "footlocker.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "foot locker",
+        "footlocker"
+    ]
+}

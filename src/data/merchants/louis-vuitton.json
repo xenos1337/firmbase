@@ -1,0 +1,21 @@
+{
+    "id": "louis-vuitton",
+    "name": "Louis Vuitton",
+    "category": "SHOPPING",
+    "subcategory": "CLOTHING",
+    "website": "https://www.louisvuitton.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "louisvuitton.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "louis vuitton",
+        "louisvuitton",
+        "lv"
+    ]
+}
