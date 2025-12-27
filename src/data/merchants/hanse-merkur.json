@@ -1,0 +1,21 @@
+{
+    "id": "hanse-merkur",
+    "name": "Hanse Merkur",
+    "category": "INSURANCE",
+    "subcategory": "HEALTH_INSURANCE",
+    "website": "https://www.hansemerkur.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "hansemerkur.de"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "hanse merkur",
+        "hansemerkur",
+        "hanse merkur reiseversicherung"
+    ]
+}
