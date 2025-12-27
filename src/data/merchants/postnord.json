@@ -9,7 +9,7 @@
         "value": "postnord.com"
     },
     "merchant_channel": "HYBRID",
-    "merchant_scope": "REGIONAL",
+    "merchant_scope": "GLOBAL",
     "subscription_likely": false,
     "is_marketplace": false,
     "risk_level": "LOW",

@@ -1,8 +1,8 @@
 {
     "id": "headspace",
     "name": "Headspace",
-    "category": "HEALTH",
-    "subcategory": "WELLNESS",
+    "category": "HEALTHCARE",
+    "subcategory": "MENTAL_HEALTH",
     "website": "https://www.headspace.com",
     "logo_hint": {
         "type": "DOMAIN",

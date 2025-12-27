@@ -2,7 +2,7 @@
     "id": "staterecords",
     "name": "StateRecords",
     "category": "SERVICES",
-    "subcategory": "DATA",
+    "subcategory": "PROFESSIONAL",
     "website": "https://www.staterecords.org",
     "logo_hint": {
         "type": "DOMAIN",
@@ -16,6 +16,6 @@
     "aliases": [
         "staterecords",
         "state records",
-        "staterecords.org"
+        "staterecords org"
     ]
 }

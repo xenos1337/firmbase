@@ -2,7 +2,7 @@
     "id": "udemy",
     "name": "Udemy",
     "category": "EDUCATION",
-    "subcategory": "ONLINE_LEARNING",
+    "subcategory": "COURSES",
     "website": "https://www.udemy.com",
     "logo_hint": {
         "type": "DOMAIN",

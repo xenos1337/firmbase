@@ -2,7 +2,7 @@
     "id": "coursera",
     "name": "Coursera",
     "category": "EDUCATION",
-    "subcategory": "ONLINE_LEARNING",
+    "subcategory": "COURSES",
     "website": "https://www.coursera.org",
     "logo_hint": {
         "type": "DOMAIN",

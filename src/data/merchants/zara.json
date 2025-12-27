@@ -1,8 +1,8 @@
 {
     "id": "zara",
     "name": "Zara",
-    "category": "RETAIL",
-    "subcategory": "FASHION",
+    "category": "SHOPPING",
+    "subcategory": "CLOTHING",
     "website": "https://www.zara.com",
     "logo_hint": {
         "type": "DOMAIN",
@@ -17,6 +17,6 @@
         "zara",
         "zara store",
         "inditex",
-        "zara.com"
+        "zara com"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "id": "amtrak",
     "name": "Amtrak",
-    "category": "TRANSPORTATION",
+    "category": "TRANSPORT",
     "subcategory": "RAIL",
     "website": "https://www.amtrak.com",
     "logo_hint": {

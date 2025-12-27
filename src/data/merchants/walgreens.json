@@ -1,7 +1,7 @@
 {
     "id": "walgreens",
     "name": "Walgreens",
-    "category": "HEALTH",
+    "category": "HEALTHCARE",
     "subcategory": "PHARMACY",
     "website": "https://www.walgreens.com",
     "logo_hint": {

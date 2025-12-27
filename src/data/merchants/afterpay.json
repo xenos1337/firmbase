@@ -2,7 +2,7 @@
     "id": "afterpay",
     "name": "Afterpay",
     "category": "FINANCE",
-    "subcategory": "LENDING",
+    "subcategory": "LOANS",
     "website": "https://www.afterpay.com",
     "logo_hint": {
         "type": "DOMAIN",

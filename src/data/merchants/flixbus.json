@@ -1,7 +1,7 @@
 {
     "id": "flixbus",
     "name": "FlixBus",
-    "category": "TRANSPORTATION",
+    "category": "TRANSPORT",
     "subcategory": "BUS",
     "website": "https://www.flixbus.com",
     "logo_hint": {

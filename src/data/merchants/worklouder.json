@@ -1,7 +1,7 @@
 {
     "id": "worklouder",
     "name": "Work Louder",
-    "category": "RETAIL",
+    "category": "SHOPPING",
     "subcategory": "ELECTRONICS",
     "website": "https://worklouder.cc",
     "logo_hint": {
@@ -16,6 +16,6 @@
     "aliases": [
         "work louder",
         "worklouder",
-        "worklouder.cc"
+        "worklouder cc"
     ]
 }

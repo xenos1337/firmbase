@@ -26,10 +26,10 @@
         "icloud",
         "app store",
         "itunes",
-        "apple.com bill",
-        "apple.com de",
-        "apple.com uk",
-        "apple.com us"
+        "apple com bill",
+        "apple com de",
+        "apple com uk",
+        "apple com us"
     ],
     "regex": [
         "^apple\\.com\\/",

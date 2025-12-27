@@ -1,8 +1,8 @@
 {
     "id": "home-depot",
     "name": "Home Depot",
-    "category": "RETAIL",
-    "subcategory": "HOME_GARDEN",
+    "category": "HOME",
+    "subcategory": "IMPROVEMENT",
     "website": "https://www.homedepot.com",
     "logo_hint": {
         "type": "DOMAIN",

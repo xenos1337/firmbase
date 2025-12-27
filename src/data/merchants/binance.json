@@ -2,7 +2,7 @@
     "id": "binance",
     "name": "Binance",
     "category": "FINANCE",
-    "subcategory": "CRYPTO",
+    "subcategory": "INVESTMENTS",
     "website": "https://www.binance.com",
     "logo_hint": {
         "type": "DOMAIN",
@@ -16,7 +16,7 @@
     "aliases": [
         "binance",
         "binance holdings",
-        "binance.us",
+        "binance us",
         "binance pay"
     ]
 }

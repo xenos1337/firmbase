@@ -2,7 +2,7 @@
     "id": "vrbo",
     "name": "Vrbo",
     "category": "TRAVEL",
-    "subcategory": "LODGING",
+    "subcategory": "VACATION_RENTALS",
     "website": "https://www.vrbo.com",
     "logo_hint": {
         "type": "DOMAIN",

@@ -1,7 +1,7 @@
 {
     "id": "eurostar",
     "name": "Eurostar",
-    "category": "TRANSPORTATION",
+    "category": "TRANSPORT",
     "subcategory": "RAIL",
     "website": "https://www.eurostar.com",
     "logo_hint": {
@@ -9,7 +9,7 @@
         "value": "eurostar.com"
     },
     "merchant_channel": "HYBRID",
-    "merchant_scope": "REGIONAL",
+    "merchant_scope": "GLOBAL",
     "subscription_likely": false,
     "is_marketplace": false,
     "risk_level": "LOW",

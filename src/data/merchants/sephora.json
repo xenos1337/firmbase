@@ -1,8 +1,8 @@
 {
     "id": "sephora",
     "name": "Sephora",
-    "category": "RETAIL",
-    "subcategory": "BEAUTY",
+    "category": "PERSONAL_CARE",
+    "subcategory": "COSMETICS",
     "website": "https://www.sephora.com",
     "logo_hint": {
         "type": "DOMAIN",

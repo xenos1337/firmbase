@@ -2,7 +2,7 @@
     "id": "robinhood",
     "name": "Robinhood",
     "category": "FINANCE",
-    "subcategory": "TRADING",
+    "subcategory": "INVESTMENTS",
     "website": "https://www.robinhood.com",
     "logo_hint": {
         "type": "DOMAIN",

@@ -2,7 +2,7 @@
     "id": "expedia",
     "name": "Expedia",
     "category": "TRAVEL",
-    "subcategory": "BOOKING",
+    "subcategory": "HOTELS",
     "website": "https://www.expedia.com",
     "logo_hint": {
         "type": "DOMAIN",
@@ -17,7 +17,7 @@
         "expedia",
         "expedia group",
         "expedia inc",
-        "hotels.com",
+        "hotels com",
         "trivago",
         "orbitz",
         "travelocity"

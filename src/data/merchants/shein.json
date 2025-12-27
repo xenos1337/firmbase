@@ -2,7 +2,7 @@
     "id": "shein",
     "name": "Shein",
     "category": "SHOPPING",
-    "subcategory": "FASHION",
+    "subcategory": "CLOTHING",
     "website": "https://www.shein.com",
     "logo_hint": {
         "type": "DOMAIN",

@@ -1,8 +1,8 @@
 {
     "id": "h-and-m",
     "name": "H&M",
-    "category": "RETAIL",
-    "subcategory": "FASHION",
+    "category": "SHOPPING",
+    "subcategory": "CLOTHING",
     "website": "https://www.hm.com",
     "logo_hint": {
         "type": "DOMAIN",
@@ -14,10 +14,10 @@
     "is_marketplace": false,
     "risk_level": "LOW",
     "aliases": [
-        "h&m",
+        "h m",
         "h and m",
         "hm",
         "hennes and mauritz",
-        "h&m online"
+        "h m online"
     ]
 }

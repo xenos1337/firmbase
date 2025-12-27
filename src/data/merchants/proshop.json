@@ -1,7 +1,7 @@
 {
     "id": "proshop",
     "name": "Proshop",
-    "category": "RETAIL",
+    "category": "SHOPPING",
     "subcategory": "ELECTRONICS",
     "website": "https://www.proshop.dk",
     "logo_hint": {
@@ -9,7 +9,7 @@
         "value": "proshop.dk"
     },
     "merchant_channel": "ONLINE",
-    "merchant_scope": "REGIONAL",
+    "merchant_scope": "GLOBAL",
     "subscription_likely": false,
     "is_marketplace": false,
     "risk_level": "LOW",

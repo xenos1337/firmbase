@@ -2,7 +2,7 @@
     "id": "masterclass",
     "name": "MasterClass",
     "category": "EDUCATION",
-    "subcategory": "ONLINE_LEARNING",
+    "subcategory": "COURSES",
     "website": "https://www.masterclass.com",
     "logo_hint": {
         "type": "DOMAIN",

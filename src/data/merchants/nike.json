@@ -1,8 +1,8 @@
 {
     "id": "nike",
     "name": "Nike",
-    "category": "RETAIL",
-    "subcategory": "FASHION",
+    "category": "SHOPPING",
+    "subcategory": "CLOTHING",
     "website": "https://www.nike.com",
     "logo_hint": {
         "type": "DOMAIN",
@@ -17,7 +17,7 @@
         "nike",
         "nike inc",
         "nike store",
-        "nike.com",
+        "nike com",
         "nike run club",
         "snkrs"
     ]

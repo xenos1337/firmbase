@@ -2,7 +2,7 @@
     "id": "coinbase",
     "name": "Coinbase",
     "category": "FINANCE",
-    "subcategory": "CRYPTO",
+    "subcategory": "INVESTMENTS",
     "website": "https://www.coinbase.com",
     "logo_hint": {
         "type": "DOMAIN",

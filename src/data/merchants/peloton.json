@@ -1,8 +1,8 @@
 {
     "id": "peloton",
     "name": "Peloton",
-    "category": "HEALTH",
-    "subcategory": "FITNESS",
+    "category": "HEALTHCARE",
+    "subcategory": "GYM",
     "website": "https://www.onepeloton.com",
     "logo_hint": {
         "type": "DOMAIN",

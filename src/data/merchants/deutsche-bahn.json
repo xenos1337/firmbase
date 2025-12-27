@@ -1,7 +1,7 @@
 {
     "id": "deutsche-bahn",
     "name": "Deutsche Bahn",
-    "category": "TRANSPORTATION",
+    "category": "TRANSPORT",
     "subcategory": "RAIL",
     "website": "https://www.bahn.de",
     "logo_hint": {

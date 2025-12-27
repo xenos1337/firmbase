@@ -1,8 +1,8 @@
 {
     "id": "fraport",
     "name": "Fraport",
-    "category": "TRANSPORTATION",
-    "subcategory": "AIRPORT",
+    "category": "TRANSPORT",
+    "subcategory": "PUBLIC_TRANSPORT",
     "website": "https://www.fraport.com",
     "logo_hint": {
         "type": "DOMAIN",

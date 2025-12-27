@@ -2,7 +2,7 @@
     "id": "duolingo",
     "name": "Duolingo",
     "category": "EDUCATION",
-    "subcategory": "ONLINE_LEARNING",
+    "subcategory": "COURSES",
     "website": "https://www.duolingo.com",
     "logo_hint": {
         "type": "DOMAIN",

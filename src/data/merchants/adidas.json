@@ -1,8 +1,8 @@
 {
     "id": "adidas",
     "name": "Adidas",
-    "category": "RETAIL",
-    "subcategory": "FASHION",
+    "category": "SHOPPING",
+    "subcategory": "CLOTHING",
     "website": "https://www.adidas.com",
     "logo_hint": {
         "type": "DOMAIN",
@@ -17,7 +17,7 @@
         "adidas",
         "adidas ag",
         "adidas store",
-        "adidas.com",
+        "adidas com",
         "adidas confirmed"
     ]
 }

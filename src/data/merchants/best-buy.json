@@ -1,7 +1,7 @@
 {
     "id": "best-buy",
     "name": "Best Buy",
-    "category": "RETAIL",
+    "category": "SHOPPING",
     "subcategory": "ELECTRONICS",
     "website": "https://www.bestbuy.com",
     "logo_hint": {

@@ -1,8 +1,8 @@
 {
     "id": "calm",
     "name": "Calm",
-    "category": "HEALTH",
-    "subcategory": "WELLNESS",
+    "category": "HEALTHCARE",
+    "subcategory": "MENTAL_HEALTH",
     "website": "https://www.calm.com",
     "logo_hint": {
         "type": "DOMAIN",

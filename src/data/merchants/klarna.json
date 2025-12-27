@@ -2,7 +2,7 @@
     "id": "klarna",
     "name": "Klarna",
     "category": "FINANCE",
-    "subcategory": "LENDING",
+    "subcategory": "LOANS",
     "website": "https://www.klarna.com",
     "logo_hint": {
         "type": "DOMAIN",

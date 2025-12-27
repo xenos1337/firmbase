@@ -2,7 +2,7 @@
     "id": "affirm",
     "name": "Affirm",
     "category": "FINANCE",
-    "subcategory": "LENDING",
+    "subcategory": "LOANS",
     "website": "https://www.affirm.com",
     "logo_hint": {
         "type": "DOMAIN",
