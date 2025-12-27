@@ -1,20 +1,22 @@
 {
     "id": "ush-parking",
-    "name": "USH Parking",
+    "name": "Universal Studios Hollywood Parking",
     "category": "AUTOMOTIVE",
     "subcategory": "PARKING",
-    "website": "https://www.ushparking.com",
+    "website": "https://www.universalstudioshollywood.com",
     "logo_hint": {
         "type": "DOMAIN",
-        "value": "ushparking.com"
+        "value": "universalstudioshollywood.com"
     },
     "merchant_channel": "PHYSICAL",
-    "merchant_scope": "NATIONAL",
+    "merchant_scope": "LOCAL",
     "subscription_likely": false,
     "is_marketplace": false,
     "risk_level": "LOW",
     "aliases": [
         "ush parking",
-        "ush parking rc"
+        "ush parking rc",
+        "universal studios parking",
+        "universal studios hollywood parking"
     ]
 }
