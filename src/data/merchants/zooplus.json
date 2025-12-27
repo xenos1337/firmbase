@@ -1,0 +1,32 @@
+{
+    "id": "zooplus",
+    "name": "Zooplus",
+    "category": "PET_CARE",
+    "subcategory": "PET_SUPPLIES",
+    "website": "https://www.zooplus.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "zooplus.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "zooplus",
+        "zooplus de",
+        "zooplus at",
+        "zooplus fr",
+        "zooplus nl",
+        "zooplus be",
+        "zooplus es",
+        "zooplus it",
+        "zooplus pl",
+        "zooplus uk",
+        "zooplus com"
+    ],
+    "regex": [
+        "^zooplus"
+    ]
+}
