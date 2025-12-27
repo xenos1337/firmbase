@@ -1,0 +1,21 @@
+{
+    "id": "kleinanzeigen",
+    "name": "Kleinanzeigen",
+    "category": "SHOPPING",
+    "subcategory": "MARKETPLACE",
+    "website": "https://www.kleinanzeigen.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "kleinanzeigen.de"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "kleinanzeigen",
+        "ebay kleinanzeigen",
+        "ebay-kleinanzeigen"
+    ]
+}

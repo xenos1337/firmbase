@@ -1,0 +1,20 @@
+{
+    "id": "mpb",
+    "name": "MPB",
+    "category": "SHOPPING",
+    "subcategory": "MARKETPLACE",
+    "website": "https://www.mpb.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "mpb.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "mpb",
+        "mpb gmbh"
+    ]
+}

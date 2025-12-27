@@ -1,0 +1,19 @@
+{
+    "id": "vinted",
+    "name": "Vinted",
+    "category": "SHOPPING",
+    "subcategory": "MARKETPLACE",
+    "website": "https://www.vinted.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "vinted.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "vinted"
+    ]
+}

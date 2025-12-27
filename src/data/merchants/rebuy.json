@@ -1,0 +1,21 @@
+{
+    "id": "rebuy",
+    "name": "reBuy",
+    "category": "SHOPPING",
+    "subcategory": "MARKETPLACE",
+    "website": "https://www.rebuy.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "rebuy.de"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "rebuy",
+        "rebuy recommerce",
+        "rebuy recommerce gmbh"
+    ]
+}
