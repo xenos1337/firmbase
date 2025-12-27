@@ -1,0 +1,28 @@
+{
+    "id": "paypal",
+    "name": "PayPal",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://www.paypal.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "paypal.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "paypal",
+        "paypal inc",
+        "paypal europe",
+        "paypal pte ltd",
+        "pp"
+    ],
+    "regex": [
+        "^paypal\\s*\\*",
+        "^paypal\\*",
+        "^pp\\*"
+    ]
+}
