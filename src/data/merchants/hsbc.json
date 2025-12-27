@@ -1,0 +1,20 @@
+{
+    "id": "hsbc",
+    "name": "HSBC",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.hsbc.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "hsbc.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "hsbc",
+        "hsbc bank"
+    ]
+}

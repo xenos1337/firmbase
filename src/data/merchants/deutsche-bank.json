@@ -1,0 +1,20 @@
+{
+    "id": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.db.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "db.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "deutsche bank",
+        "db"
+    ]
+}

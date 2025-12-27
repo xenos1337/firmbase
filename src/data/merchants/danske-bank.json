@@ -1,0 +1,20 @@
+{
+    "id": "danske-bank",
+    "name": "Danske Bank",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://danskebank.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "danskebank.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "danske bank",
+        "danske"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "lloyds",
+    "name": "Lloyds Bank",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.lloydsbank.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lloydsbank.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "lloyds",
+        "lloyds bank"
+    ]
+}

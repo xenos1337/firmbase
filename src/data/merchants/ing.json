@@ -1,0 +1,21 @@
+{
+    "id": "ing",
+    "name": "ING",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.ing.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "ing.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "ing",
+        "ing bank",
+        "ing diba"
+    ]
+}

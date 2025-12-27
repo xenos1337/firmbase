@@ -1,0 +1,20 @@
+{
+    "id": "dnb",
+    "name": "DNB",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.dnb.no",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "dnb.no"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "dnb",
+        "dnb bank"
+    ]
+}

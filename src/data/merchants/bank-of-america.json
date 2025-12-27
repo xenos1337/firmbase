@@ -1,0 +1,21 @@
+{
+    "id": "bank-of-america",
+    "name": "Bank of America",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.bankofamerica.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "bankofamerica.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "bank of america",
+        "boa",
+        "bofa"
+    ]
+}

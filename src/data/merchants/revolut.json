@@ -1,0 +1,19 @@
+{
+    "id": "revolut",
+    "name": "Revolut",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.revolut.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "revolut.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "revolut"
+    ]
+}

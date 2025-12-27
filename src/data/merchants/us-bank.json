@@ -1,0 +1,20 @@
+{
+    "id": "us-bank",
+    "name": "US Bank",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.usbank.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "usbank.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "us bank",
+        "usbank"
+    ]
+}

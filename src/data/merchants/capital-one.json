@@ -1,0 +1,20 @@
+{
+    "id": "capital-one",
+    "name": "Capital One",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.capitalone.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "capitalone.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "capital one",
+        "capitalone"
+    ]
+}
