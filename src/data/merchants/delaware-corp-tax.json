@@ -1,0 +1,20 @@
+{
+    "id": "delaware-corp-tax",
+    "name": "Delaware Corp & Tax",
+    "category": "SERVICES",
+    "subcategory": "LEGAL",
+    "website": "https://www.delawarecorpandtax.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "delawarecorpandtax.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "delaware corp tax",
+        "delaware corp and tax"
+    ]
+}
