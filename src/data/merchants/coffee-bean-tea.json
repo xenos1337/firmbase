@@ -1,0 +1,22 @@
+{
+    "id": "coffee-bean-tea",
+    "name": "The Coffee Bean & Tea Leaf",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "CAFE",
+    "website": "https://www.coffeebean.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "coffeebean.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "coffee bean",
+        "coffee bean tea",
+        "coffee bean tea leaf",
+        "the coffee bean"
+    ]
+}
