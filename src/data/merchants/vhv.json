@@ -1,0 +1,21 @@
+{
+    "id": "vhv",
+    "name": "VHV Versicherung",
+    "category": "INSURANCE",
+    "subcategory": "HOME_INSURANCE",
+    "website": "https://www.vhv.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "vhv.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "vhv",
+        "vhv versicherung",
+        "vhv haftpflichtversicherung"
+    ]
+}
