@@ -70,6 +70,11 @@ export const Subcategory = {
     VISION: "VISION",
     MENTAL_HEALTH: "MENTAL_HEALTH",
 
+    // DEBT
+    DEBT_COLLECTION: "DEBT_COLLECTION",
+    CREDIT_REPAIR: "CREDIT_REPAIR",
+    BANKRUPTCY: "BANKRUPTCY",
+
     // DIGITAL_SERVICES
     SOFTWARE: "SOFTWARE",
     CLOUD: "CLOUD",
@@ -207,6 +212,11 @@ export const SUBCATEGORY_TO_CATEGORY: Record<Subcategory, Category> = {
     [Subcategory.DENTAL]: Category.HEALTHCARE,
     [Subcategory.VISION]: Category.HEALTHCARE,
     [Subcategory.MENTAL_HEALTH]: Category.HEALTHCARE,
+
+    // DEBT
+    [Subcategory.DEBT_COLLECTION]: Category.DEBT,
+    [Subcategory.CREDIT_REPAIR]: Category.DEBT,
+    [Subcategory.BANKRUPTCY]: Category.DEBT,
 
     // DIGITAL_SERVICES
     [Subcategory.SOFTWARE]: Category.DIGITAL_SERVICES,
