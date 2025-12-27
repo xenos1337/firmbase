@@ -1,0 +1,23 @@
+{
+    "id": "snapchat",
+    "name": "Snapchat",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOCIAL_MEDIA",
+    "website": "https://www.snapchat.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "snapchat.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "snapchat",
+        "snap",
+        "snap inc",
+        "snapchat plus",
+        "snap premium"
+    ]
+}

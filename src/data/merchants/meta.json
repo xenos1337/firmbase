@@ -1,0 +1,39 @@
+{
+    "id": "meta",
+    "name": "Meta",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOCIAL_MEDIA",
+    "website": "https://www.meta.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "meta.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "meta",
+        "meta platforms",
+        "meta platforms inc",
+        "facebook",
+        "facebook inc",
+        "facebook payments",
+        "fb",
+        "instagram",
+        "instagram shop",
+        "whatsapp",
+        "whatsapp business",
+        "messenger",
+        "threads",
+        "oculus",
+        "meta quest"
+    ],
+    "regex": [
+        "^fb\\s*\\*",
+        "^facebook\\s*\\*",
+        "^instagram\\s*\\*",
+        "^meta\\s*\\*"
+    ]
+}
