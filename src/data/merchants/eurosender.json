@@ -1,0 +1,20 @@
+{
+    "id": "eurosender",
+    "name": "Eurosender",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.eurosender.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "eurosender.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "eurosender",
+        "eurosender eur"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "deutsche-post",
+    "name": "Deutsche Post DHL",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.deutschepost.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "dhl.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "deutsche post",
+        "deutsche post ag",
+        "dhl",
+        "dhl express"
+    ],
+    "regex": [
+        "^dhl\\*",
+        "^deutsche post"
+    ]
+}

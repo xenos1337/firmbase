@@ -1,0 +1,21 @@
+{
+    "id": "ups",
+    "name": "UPS",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.ups.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "ups.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "ups",
+        "ups de",
+        "united parcel service"
+    ]
+}
