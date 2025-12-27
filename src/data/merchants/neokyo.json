@@ -1,0 +1,19 @@
+{
+    "id": "neokyo",
+    "name": "Neokyo",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://neokyo.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "neokyo.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "neokyo"
+    ]
+}

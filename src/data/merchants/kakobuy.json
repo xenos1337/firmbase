@@ -1,0 +1,23 @@
+{
+    "id": "kakobuy",
+    "name": "KakoBuy",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://kakobuy.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "kakobuy.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "kakobuy",
+        "kakobuy com"
+    ],
+    "regex": [
+        "kakobuy"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "banknote-world",
+    "name": "Banknote World",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://banknoteworld.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "banknoteworld.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "banknote world",
+        "banknoteworld"
+    ]
+}

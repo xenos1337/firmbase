@@ -1,0 +1,23 @@
+{
+    "id": "cssbuy",
+    "name": "CSSBuy",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://cssbuy.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "cssbuy.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "cssbuy",
+        "cssbuy com"
+    ],
+    "regex": [
+        "cssbuy"
+    ]
+}
