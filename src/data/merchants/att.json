@@ -1,0 +1,24 @@
+{
+    "id": "att",
+    "name": "AT&T",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.att.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "att.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "at&t",
+        "att",
+        "at and t",
+        "at&t wireless",
+        "at&t mobility",
+        "directv"
+    ]
+}

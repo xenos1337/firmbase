@@ -1,0 +1,23 @@
+{
+    "id": "deutsche-telekom",
+    "name": "Deutsche Telekom",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.telekom.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "telekom.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "deutsche telekom",
+        "telekom",
+        "telekom deutschland",
+        "telekom de",
+        "magenta"
+    ]
+}

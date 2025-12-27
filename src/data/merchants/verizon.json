@@ -1,0 +1,23 @@
+{
+    "id": "verizon",
+    "name": "Verizon",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.verizon.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "verizon.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "verizon",
+        "verizon wireless",
+        "verizon communications",
+        "verizon fios",
+        "vzw"
+    ]
+}

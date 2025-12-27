@@ -1,0 +1,24 @@
+{
+    "id": "vodafone",
+    "name": "Vodafone",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.vodafone.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "vodafone.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "vodafone",
+        "vodafone group",
+        "vodafone uk",
+        "vodafone de",
+        "vodafone germany",
+        "vodafone italy"
+    ]
+}

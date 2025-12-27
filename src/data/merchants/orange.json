@@ -1,0 +1,24 @@
+{
+    "id": "orange",
+    "name": "Orange",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.orange.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "orange.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "orange",
+        "orange sa",
+        "orange france",
+        "orange spain",
+        "orange poland",
+        "orange belgium"
+    ]
+}
