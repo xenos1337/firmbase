@@ -1,0 +1,21 @@
+{
+    "id": "worklouder",
+    "name": "Work Louder",
+    "category": "RETAIL",
+    "subcategory": "ELECTRONICS",
+    "website": "https://worklouder.cc",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "worklouder.cc"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "work louder",
+        "worklouder",
+        "worklouder.cc"
+    ]
+}

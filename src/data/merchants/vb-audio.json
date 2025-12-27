@@ -1,0 +1,23 @@
+{
+    "id": "vb-audio",
+    "name": "VB-Audio",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://vb-audio.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "vb-audio.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "vb audio",
+        "vb-audio",
+        "shop.vb-audio.com",
+        "voicemeeter",
+        "vb-cable"
+    ]
+}

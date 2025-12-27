@@ -1,0 +1,26 @@
+{
+    "id": "proshop",
+    "name": "Proshop",
+    "category": "RETAIL",
+    "subcategory": "ELECTRONICS",
+    "website": "https://www.proshop.dk",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "proshop.dk"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "proshop",
+        "proshop dk",
+        "proshop de",
+        "proshop denmark",
+        "proshop germany",
+        "proshop sweden",
+        "proshop norway",
+        "proshop finland"
+    ]
+}
