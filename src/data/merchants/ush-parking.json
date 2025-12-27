@@ -1,0 +1,20 @@
+{
+    "id": "ush-parking",
+    "name": "USH Parking",
+    "category": "AUTOMOTIVE",
+    "subcategory": "PARKING",
+    "website": "https://www.ushparking.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "ushparking.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "ush parking",
+        "ush parking rc"
+    ]
+}

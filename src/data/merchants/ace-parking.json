@@ -1,0 +1,19 @@
+{
+    "id": "ace-parking",
+    "name": "Ace Parking",
+    "category": "AUTOMOTIVE",
+    "subcategory": "PARKING",
+    "website": "https://www.aceparking.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "aceparking.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "ace parking"
+    ]
+}

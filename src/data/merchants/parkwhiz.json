@@ -1,0 +1,20 @@
+{
+    "id": "parkwhiz",
+    "name": "ParkWhiz",
+    "category": "AUTOMOTIVE",
+    "subcategory": "PARKING",
+    "website": "https://www.parkwhiz.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "parkwhiz.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "parkwhiz",
+        "parkwhiz inc"
+    ]
+}

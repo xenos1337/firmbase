@@ -1,0 +1,21 @@
+{
+    "id": "fraport-parken",
+    "name": "Fraport Parken",
+    "category": "AUTOMOTIVE",
+    "subcategory": "PARKING",
+    "website": "https://www.fraport.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "fraport.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "LOCAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "fraport parken",
+        "fraport parking",
+        "fraport"
+    ]
+}

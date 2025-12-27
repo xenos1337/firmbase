@@ -1,0 +1,21 @@
+{
+    "id": "easypark",
+    "name": "EasyPark",
+    "category": "AUTOMOTIVE",
+    "subcategory": "PARKING",
+    "website": "https://www.easypark.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "easypark.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "easypark",
+        "easypark gmbh",
+        "easy park"
+    ]
+}
