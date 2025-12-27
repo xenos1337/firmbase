@@ -1,0 +1,25 @@
+{
+    "id": "tiktok",
+    "name": "TikTok",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOCIAL_MEDIA",
+    "website": "https://www.tiktok.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "tiktok.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "tiktok",
+        "tiktok inc",
+        "tiktok shop",
+        "tiktok shop seller",
+        "tiktok ads",
+        "tiktok pte ltd",
+        "bytedance"
+    ]
+}

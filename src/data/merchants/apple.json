@@ -1,0 +1,39 @@
+{
+    "id": "apple",
+    "name": "Apple",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.apple.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "apple.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "apple",
+        "apple inc",
+        "apple store",
+        "apple pay",
+        "apple one",
+        "apple music",
+        "apple tv",
+        "apple arcade",
+        "apple icloud",
+        "icloud",
+        "app store",
+        "itunes",
+        "apple.com bill",
+        "apple.com de",
+        "apple.com uk",
+        "apple.com us"
+    ],
+    "regex": [
+        "^apple\\.com\\/",
+        "^apple store #[a-z]?\\d+",
+        "^apple\\s*\\*"
+    ]
+}
