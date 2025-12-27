@@ -27,7 +27,16 @@
         "amzn mktp",
         "amzn mktp de",
         "amazon mktplace",
-        "amazon marketplace"
+        "amazon marketplace",
+        "amazon fresh",
+        "amazon web services",
+        "aws",
+        "audible",
+        "audible inc",
+        "kindle",
+        "kindle unlimited",
+        "whole foods market",
+        "twitch prime"
     ],
     "regex": [
         "^amzn",

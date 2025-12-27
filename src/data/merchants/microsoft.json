@@ -18,6 +18,19 @@
         "microsoft corp",
         "microsoft 365",
         "office 365",
-        "msft"
+        "msft",
+        "xbox",
+        "xbox game pass",
+        "xbox live",
+        "xbox game studios",
+        "azure",
+        "microsoft azure",
+        "onedrive",
+        "microsoft onedrive"
+    ],
+    "regex": [
+        "^microsoft\\s*\\*",
+        "^xbox\\s*\\*",
+        "^msft\\s*\\*"
     ]
 }

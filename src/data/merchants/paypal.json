@@ -18,7 +18,9 @@
         "paypal inc",
         "paypal europe",
         "paypal pte ltd",
-        "pp"
+        "pp",
+        "venmo",
+        "venmo payment"
     ],
     "regex": [
         "^paypal\\s*\\*",
