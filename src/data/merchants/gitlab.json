@@ -1,0 +1,20 @@
+{
+    "id": "gitlab",
+    "name": "GitLab",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://gitlab.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "gitlab.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "gitlab",
+        "gitlab inc"
+    ]
+}
