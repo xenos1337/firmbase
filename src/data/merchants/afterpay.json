@@ -1,0 +1,21 @@
+{
+    "id": "afterpay",
+    "name": "Afterpay",
+    "category": "FINANCE",
+    "subcategory": "LENDING",
+    "website": "https://www.afterpay.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "afterpay.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "afterpay",
+        "afterpay limited",
+        "clearpay"
+    ]
+}

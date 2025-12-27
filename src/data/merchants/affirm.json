@@ -1,0 +1,21 @@
+{
+    "id": "affirm",
+    "name": "Affirm",
+    "category": "FINANCE",
+    "subcategory": "LENDING",
+    "website": "https://www.affirm.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "affirm.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "affirm",
+        "affirm inc",
+        "affirm payments"
+    ]
+}
