@@ -1,0 +1,20 @@
+{
+    "id": "vercel",
+    "name": "Vercel",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "CLOUD",
+    "website": "https://vercel.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "vercel.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "vercel",
+        "vercel inc"
+    ]
+}

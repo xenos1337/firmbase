@@ -1,0 +1,20 @@
+{
+    "id": "planetscale",
+    "name": "PlanetScale",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "CLOUD",
+    "website": "https://planetscale.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "planetscale.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "planetscale",
+        "planetscale inc"
+    ]
+}
