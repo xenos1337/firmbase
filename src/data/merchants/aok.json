@@ -1,0 +1,25 @@
+{
+    "id": "aok",
+    "name": "AOK",
+    "category": "INSURANCE",
+    "subcategory": "HEALTH_INSURANCE",
+    "website": "https://www.aok.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "aok.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "aok",
+        "aok hessen",
+        "aok bayern",
+        "aok plus"
+    ],
+    "regex": [
+        "^aok"
+    ]
+}
