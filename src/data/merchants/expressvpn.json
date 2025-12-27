@@ -1,0 +1,21 @@
+{
+    "id": "expressvpn",
+    "name": "ExpressVPN",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SECURITY",
+    "website": "https://www.expressvpn.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "expressvpn.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "expressvpn",
+        "express vpn",
+        "express technologies"
+    ]
+}
