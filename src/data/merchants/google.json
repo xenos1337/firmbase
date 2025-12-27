@@ -1,0 +1,30 @@
+{
+    "id": "google",
+    "name": "Google",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.google.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "google.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "google",
+        "google pay",
+        "gpay",
+        "google one",
+        "google fi",
+        "google play",
+        "youtube premium",
+        "youtube music"
+    ],
+    "regex": [
+        "^google\\s*\\*",
+        "^google\\*"
+    ]
+}
