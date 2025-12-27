@@ -1,0 +1,22 @@
+{
+    "id": "wechat",
+    "name": "WeChat",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.wechat.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "wechat.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "wechat",
+        "wechat international",
+        "wechat pay",
+        "weixin"
+    ]
+}

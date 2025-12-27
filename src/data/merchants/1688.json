@@ -1,0 +1,21 @@
+{
+    "id": "1688",
+    "name": "1688.com",
+    "category": "SHOPPING",
+    "subcategory": "MARKETPLACE",
+    "website": "https://www.1688.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "1688.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "1688",
+        "1688 com",
+        "alibaba 1688"
+    ]
+}
