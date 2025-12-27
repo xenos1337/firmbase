@@ -1,0 +1,22 @@
+{
+    "id": "lime",
+    "name": "Lime",
+    "category": "TRANSPORT",
+    "subcategory": "RIDE_SHARING",
+    "website": "https://www.li.me",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "li.me"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "lime",
+        "lime germany",
+        "lime scooter",
+        "lime bike"
+    ]
+}

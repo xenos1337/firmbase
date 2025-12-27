@@ -1,0 +1,20 @@
+{
+    "id": "waymo",
+    "name": "Waymo",
+    "category": "TRANSPORT",
+    "subcategory": "RIDE_SHARING",
+    "website": "https://waymo.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "waymo.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "waymo",
+        "waymo one"
+    ]
+}
