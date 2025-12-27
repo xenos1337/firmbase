@@ -1,0 +1,21 @@
+{
+    "id": "just-eat",
+    "name": "Just Eat",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "DELIVERY",
+    "website": "https://www.just-eat.dk",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "just-eat.dk"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "just eat",
+        "justeat",
+        "just-eat"
+    ]
+}

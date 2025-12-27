@@ -1,0 +1,20 @@
+{
+    "id": "lieferando",
+    "name": "Lieferando",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "DELIVERY",
+    "website": "https://www.lieferando.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lieferando.de"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "lieferando",
+        "lieferando.de"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "wolt",
+    "name": "Wolt",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "DELIVERY",
+    "website": "https://wolt.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "wolt.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "wolt"
+    ]
+}
