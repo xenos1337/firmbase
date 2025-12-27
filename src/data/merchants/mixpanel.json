@@ -1,0 +1,20 @@
+{
+    "id": "mixpanel",
+    "name": "Mixpanel",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://mixpanel.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "mixpanel.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "mixpanel",
+        "mixpanel inc"
+    ]
+}
