@@ -1,0 +1,22 @@
+{
+    "id": "gog",
+    "name": "GOG",
+    "category": "ENTERTAINMENT",
+    "subcategory": "GAMING",
+    "website": "https://www.gog.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "gog.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "gog",
+        "gog.com",
+        "good old games",
+        "cd projekt"
+    ]
+}

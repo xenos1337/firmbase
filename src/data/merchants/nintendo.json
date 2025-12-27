@@ -1,0 +1,23 @@
+{
+    "id": "nintendo",
+    "name": "Nintendo",
+    "category": "ENTERTAINMENT",
+    "subcategory": "GAMING",
+    "website": "https://www.nintendo.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "nintendo.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "nintendo",
+        "nintendo of america",
+        "nintendo eshop",
+        "nintendo switch online",
+        "nintendo co ltd"
+    ]
+}
