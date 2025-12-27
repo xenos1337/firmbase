@@ -1,0 +1,21 @@
+{
+    "id": "o2",
+    "name": "O2",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.o2online.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "o2online.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "o2",
+        "o2 germany",
+        "telefonica o2"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "mobimatter",
+    "name": "Mobimatter",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.mobimatter.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "mobimatter.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "mobimatter"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "t-mobile",
+    "name": "T-Mobile",
+    "category": "UTILITIES",
+    "subcategory": "PHONE",
+    "website": "https://www.t-mobile.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "t-mobile.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "t-mobile",
+        "t mobile",
+        "tmobile",
+        "t-mobile hotspot",
+        "t-mobile hotspot gmbh"
+    ]
+}
