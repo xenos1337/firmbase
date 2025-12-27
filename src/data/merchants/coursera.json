@@ -1,0 +1,21 @@
+{
+    "id": "coursera",
+    "name": "Coursera",
+    "category": "EDUCATION",
+    "subcategory": "ONLINE_LEARNING",
+    "website": "https://www.coursera.org",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "coursera.org"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "coursera",
+        "coursera inc",
+        "coursera plus"
+    ]
+}
