@@ -1,0 +1,24 @@
+{
+    "id": "twitch",
+    "name": "Twitch",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://www.twitch.tv",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "twitch.tv"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "twitch",
+        "twitch tv",
+        "twitch interactive"
+    ],
+    "regex": [
+        "^twitch"
+    ]
+}

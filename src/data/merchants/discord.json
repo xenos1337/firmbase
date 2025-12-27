@@ -1,0 +1,24 @@
+{
+    "id": "discord",
+    "name": "Discord",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://discord.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "discord.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "discord",
+        "discord nitro",
+        "discord gift"
+    ],
+    "regex": [
+        "^discord"
+    ]
+}
