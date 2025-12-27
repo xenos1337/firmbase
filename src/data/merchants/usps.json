@@ -1,0 +1,23 @@
+{
+    "id": "usps",
+    "name": "USPS",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.usps.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "usps.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "usps",
+        "us postal service",
+        "united states postal service",
+        "us post office",
+        "usps post office"
+    ]
+}

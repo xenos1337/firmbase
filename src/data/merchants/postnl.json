@@ -1,0 +1,22 @@
+{
+    "id": "postnl",
+    "name": "PostNL",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.postnl.nl",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "postnl.nl"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "postnl",
+        "post nl",
+        "postnl bv",
+        "postnl netherlands"
+    ]
+}

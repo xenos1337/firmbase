@@ -1,0 +1,20 @@
+{
+    "id": "superpost",
+    "name": "Superpost",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.superpost.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "superpost.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "superpost",
+        "super post"
+    ]
+}

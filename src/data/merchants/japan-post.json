@@ -1,0 +1,23 @@
+{
+    "id": "japan-post",
+    "name": "Japan Post",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.post.japanpost.jp",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "japanpost.jp"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "japan post",
+        "japanpost",
+        "jp post",
+        "yubin",
+        "nihon yubin"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dpd",
+    "name": "DPD",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.dpd.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "dpd.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "dpd",
+        "dpd group",
+        "dpd uk",
+        "dpd de",
+        "dpd germany",
+        "dpd france",
+        "dynamic parcel distribution"
+    ]
+}

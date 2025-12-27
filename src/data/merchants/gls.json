@@ -1,0 +1,26 @@
+{
+    "id": "gls",
+    "name": "GLS",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.gls-group.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "gls-group.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "gls",
+        "gls group",
+        "gls germany",
+        "gls de",
+        "gls france",
+        "gls spain",
+        "gls italy",
+        "general logistics systems"
+    ]
+}

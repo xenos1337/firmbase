@@ -1,0 +1,24 @@
+{
+    "id": "postnord",
+    "name": "PostNord",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.postnord.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "postnord.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "postnord",
+        "postnord ab",
+        "postnord sweden",
+        "postnord denmark",
+        "postnord norway",
+        "postnord finland"
+    ]
+}

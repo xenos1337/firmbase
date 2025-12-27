@@ -1,0 +1,25 @@
+{
+    "id": "hermes",
+    "name": "Hermes",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.myhermes.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "myhermes.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "hermes",
+        "hermes uk",
+        "hermes germany",
+        "hermes de",
+        "myhermes",
+        "evri",
+        "hermes parcelnet"
+    ]
+}
