@@ -1,0 +1,20 @@
+{
+    "id": "kickstarter",
+    "name": "Kickstarter",
+    "category": "GIFTS_AND_DONATIONS",
+    "subcategory": "GIFTS",
+    "website": "https://www.kickstarter.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "kickstarter.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "kickstarter",
+        "kickstarter com"
+    ]
+}
