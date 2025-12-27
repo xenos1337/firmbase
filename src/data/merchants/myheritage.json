@@ -1,0 +1,20 @@
+{
+    "id": "myheritage",
+    "name": "MyHeritage",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.myheritage.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "myheritage.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "myheritage",
+        "my heritage"
+    ]
+}
