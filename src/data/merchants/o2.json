@@ -3,19 +3,25 @@
     "name": "O2",
     "category": "UTILITIES",
     "subcategory": "PHONE",
-    "website": "https://www.o2online.de",
+    "website": "https://www.o2.co.uk",
     "logo_hint": {
         "type": "DOMAIN",
-        "value": "o2online.de"
+        "value": "o2.co.uk"
     },
     "merchant_channel": "HYBRID",
-    "merchant_scope": "NATIONAL",
+    "merchant_scope": "GLOBAL",
     "subscription_likely": true,
     "is_marketplace": false,
     "risk_level": "LOW",
     "aliases": [
         "o2",
+        "o2 uk",
         "o2 germany",
-        "telefonica o2"
+        "o2 de",
+        "o2 czech",
+        "o2 slovakia",
+        "o2 telefonica",
+        "telefonica o2",
+        "virgin media o2"
     ]
 }
