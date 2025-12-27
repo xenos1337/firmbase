@@ -1,0 +1,26 @@
+{
+    "id": "vr-bank",
+    "name": "VR Bank",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.vr.de",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "vr.de"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "vr bank",
+        "vr verbundbank",
+        "vr verbundbank eg",
+        "volksbank",
+        "raiffeisenbank"
+    ],
+    "regex": [
+        "^vr "
+    ]
+}

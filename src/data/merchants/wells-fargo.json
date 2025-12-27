@@ -1,0 +1,21 @@
+{
+    "id": "wells-fargo",
+    "name": "Wells Fargo",
+    "category": "FINANCE",
+    "subcategory": "BANKING",
+    "website": "https://www.wellsfargo.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "wellsfargo.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "wells fargo",
+        "wells fargo bank",
+        "wellsfargo"
+    ]
+}
