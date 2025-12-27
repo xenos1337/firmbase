@@ -1,0 +1,20 @@
+{
+    "id": "jumingo",
+    "name": "Jumingo",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.jumingo.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "jumingo.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "jumingo",
+        "jumingo gmbh"
+    ]
+}

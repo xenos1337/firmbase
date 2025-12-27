@@ -1,0 +1,20 @@
+{
+    "id": "chasing-lights",
+    "name": "Chasing Lights",
+    "category": "ENTERTAINMENT",
+    "subcategory": "TOURISM",
+    "website": "https://www.chasinglights.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "chasinglights.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "LOCAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "chasing lights",
+        "chasinglights"
+    ]
+}

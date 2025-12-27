@@ -1,0 +1,22 @@
+{
+    "id": "usestable",
+    "name": "Stable",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.usestable.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "usestable.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "stable",
+        "usestable",
+        "use stable",
+        "stable address"
+    ]
+}

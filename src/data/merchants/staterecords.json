@@ -1,0 +1,21 @@
+{
+    "id": "staterecords",
+    "name": "StateRecords",
+    "category": "SERVICES",
+    "subcategory": "DATA",
+    "website": "https://www.staterecords.org",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "staterecords.org"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "staterecords",
+        "state records",
+        "staterecords.org"
+    ]
+}
