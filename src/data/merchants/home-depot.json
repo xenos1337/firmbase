@@ -1,0 +1,21 @@
+{
+    "id": "home-depot",
+    "name": "Home Depot",
+    "category": "RETAIL",
+    "subcategory": "HOME_GARDEN",
+    "website": "https://www.homedepot.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "homedepot.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "home depot",
+        "the home depot",
+        "homedepot"
+    ]
+}

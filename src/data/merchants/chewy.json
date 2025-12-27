@@ -1,0 +1,22 @@
+{
+    "id": "chewy",
+    "name": "Chewy",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://www.chewy.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "chewy.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "chewy",
+        "chewy inc",
+        "chewy.com",
+        "chewy autoship"
+    ]
+}

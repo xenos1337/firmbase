@@ -1,0 +1,24 @@
+{
+    "id": "nike",
+    "name": "Nike",
+    "category": "RETAIL",
+    "subcategory": "FASHION",
+    "website": "https://www.nike.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "nike.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "nike",
+        "nike inc",
+        "nike store",
+        "nike.com",
+        "nike run club",
+        "snkrs"
+    ]
+}

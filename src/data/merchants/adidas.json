@@ -1,0 +1,23 @@
+{
+    "id": "adidas",
+    "name": "Adidas",
+    "category": "RETAIL",
+    "subcategory": "FASHION",
+    "website": "https://www.adidas.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "adidas.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "adidas",
+        "adidas ag",
+        "adidas store",
+        "adidas.com",
+        "adidas confirmed"
+    ]
+}

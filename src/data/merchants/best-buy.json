@@ -1,0 +1,22 @@
+{
+    "id": "best-buy",
+    "name": "Best Buy",
+    "category": "RETAIL",
+    "subcategory": "ELECTRONICS",
+    "website": "https://www.bestbuy.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "bestbuy.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "best buy",
+        "bestbuy",
+        "best buy co",
+        "geek squad"
+    ]
+}

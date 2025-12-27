@@ -1,0 +1,23 @@
+{
+    "id": "wayfair",
+    "name": "Wayfair",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://www.wayfair.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "wayfair.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "wayfair",
+        "wayfair llc",
+        "wayfair.com",
+        "allmodern",
+        "joss and main"
+    ]
+}
