@@ -1,0 +1,21 @@
+{
+    "id": "eurostar",
+    "name": "Eurostar",
+    "category": "TRANSPORTATION",
+    "subcategory": "RAIL",
+    "website": "https://www.eurostar.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "eurostar.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "eurostar",
+        "eurostar international",
+        "thalys"
+    ]
+}

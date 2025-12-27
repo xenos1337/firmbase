@@ -1,0 +1,22 @@
+{
+    "id": "flixbus",
+    "name": "FlixBus",
+    "category": "TRANSPORTATION",
+    "subcategory": "BUS",
+    "website": "https://www.flixbus.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "flixbus.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "flixbus",
+        "flix se",
+        "flixtrain",
+        "greyhound"
+    ]
+}
