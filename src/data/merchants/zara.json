@@ -1,0 +1,22 @@
+{
+    "id": "zara",
+    "name": "Zara",
+    "category": "RETAIL",
+    "subcategory": "FASHION",
+    "website": "https://www.zara.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "zara.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "zara",
+        "zara store",
+        "inditex",
+        "zara.com"
+    ]
+}

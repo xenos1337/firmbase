@@ -1,0 +1,23 @@
+{
+    "id": "aliexpress",
+    "name": "AliExpress",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://www.aliexpress.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "aliexpress.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "aliexpress",
+        "ali express",
+        "aliexpress com",
+        "alibaba",
+        "alibaba group"
+    ]
+}

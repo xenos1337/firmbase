@@ -1,0 +1,21 @@
+{
+    "id": "shein",
+    "name": "Shein",
+    "category": "SHOPPING",
+    "subcategory": "FASHION",
+    "website": "https://www.shein.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "shein.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "MEDIUM",
+    "aliases": [
+        "shein",
+        "shein com",
+        "shein group"
+    ]
+}

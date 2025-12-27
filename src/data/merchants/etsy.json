@@ -1,0 +1,22 @@
+{
+    "id": "etsy",
+    "name": "Etsy",
+    "category": "SHOPPING",
+    "subcategory": "E_COMMERCE",
+    "website": "https://www.etsy.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "etsy.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "etsy",
+        "etsy inc",
+        "etsy ireland",
+        "etsy payments"
+    ]
+}

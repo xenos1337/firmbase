@@ -1,0 +1,21 @@
+{
+    "id": "sephora",
+    "name": "Sephora",
+    "category": "RETAIL",
+    "subcategory": "BEAUTY",
+    "website": "https://www.sephora.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "sephora.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "sephora",
+        "sephora usa",
+        "sephora store"
+    ]
+}
