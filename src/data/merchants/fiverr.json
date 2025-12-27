@@ -1,0 +1,20 @@
+{
+    "id": "fiverr",
+    "name": "Fiverr",
+    "category": "SERVICES",
+    "subcategory": "PROFESSIONAL",
+    "website": "https://www.fiverr.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "fiverr.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "fiverr",
+        "fiverreu"
+    ]
+}
