@@ -10,7 +10,9 @@
         "dev": "tsx watch src/server.ts",
         "build": "tsc",
         "start": "node dist/server.js",
-        "lint": "tsc --noEmit"
+        "lint": "tsc --noEmit",
+        "test": "vitest",
+        "test:run": "vitest run"
     },
     "license": "LICENSE.md",
     "dependencies": {
@@ -19,6 +21,7 @@
     "devDependencies": {
         "@types/node": "^25.0.3",
         "tsx": "^4.21.0",
-        "typescript": "^5.9.3"
+        "typescript": "^5.9.3",
+        "vitest": "^4.0.16"
     }
 }
