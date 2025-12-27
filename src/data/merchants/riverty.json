@@ -1,8 +1,8 @@
 {
     "id": "riverty",
     "name": "Riverty",
-    "category": "FEES_AND_CHARGES",
-    "subcategory": "SERVICE_FEES",
+    "category": "DEBT",
+    "subcategory": "DEBT_COLLECTION",
     "website": "https://www.riverty.com",
     "logo_hint": {
         "type": "DOMAIN",
