@@ -1,0 +1,21 @@
+{
+    "id": "vrbo",
+    "name": "Vrbo",
+    "category": "TRAVEL",
+    "subcategory": "LODGING",
+    "website": "https://www.vrbo.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "vrbo.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "vrbo",
+        "vacation rentals by owner",
+        "homeaway"
+    ]
+}
