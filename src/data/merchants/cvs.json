@@ -1,0 +1,23 @@
+{
+    "id": "cvs",
+    "name": "CVS",
+    "category": "HEALTH",
+    "subcategory": "PHARMACY",
+    "website": "https://www.cvs.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "cvs.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "cvs",
+        "cvs pharmacy",
+        "cvs health",
+        "cvs caremark",
+        "minuteclinic"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "peloton",
+    "name": "Peloton",
+    "category": "HEALTH",
+    "subcategory": "FITNESS",
+    "website": "https://www.onepeloton.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "onepeloton.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "peloton",
+        "peloton interactive",
+        "onepeloton",
+        "peloton digital"
+    ]
+}

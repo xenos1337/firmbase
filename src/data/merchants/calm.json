@@ -1,0 +1,21 @@
+{
+    "id": "calm",
+    "name": "Calm",
+    "category": "HEALTH",
+    "subcategory": "WELLNESS",
+    "website": "https://www.calm.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "calm.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "calm",
+        "calm inc",
+        "calm premium"
+    ]
+}

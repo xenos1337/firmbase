@@ -1,0 +1,21 @@
+{
+    "id": "headspace",
+    "name": "Headspace",
+    "category": "HEALTH",
+    "subcategory": "WELLNESS",
+    "website": "https://www.headspace.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "headspace.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "headspace",
+        "headspace inc",
+        "headspace health"
+    ]
+}

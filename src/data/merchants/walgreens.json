@@ -1,0 +1,22 @@
+{
+    "id": "walgreens",
+    "name": "Walgreens",
+    "category": "HEALTH",
+    "subcategory": "PHARMACY",
+    "website": "https://www.walgreens.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "walgreens.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "walgreens",
+        "walgreens boots alliance",
+        "walgreens pharmacy",
+        "duane reade"
+    ]
+}
