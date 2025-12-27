@@ -1,0 +1,21 @@
+{
+    "id": "sonic",
+    "name": "Sonic Drive-In",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.sonicdrivein.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "sonicdrivein.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "sonic",
+        "sonic drive-in",
+        "sonic drive in"
+    ]
+}

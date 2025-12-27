@@ -1,0 +1,20 @@
+{
+    "id": "whataburger",
+    "name": "Whataburger",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.whataburger.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "whataburger.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "whataburger",
+        "whata burger"
+    ]
+}

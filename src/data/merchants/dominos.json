@@ -1,0 +1,21 @@
+{
+    "id": "dominos",
+    "name": "Domino's",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.dominos.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "dominos.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "dominos",
+        "domino's",
+        "dominos pizza"
+    ]
+}

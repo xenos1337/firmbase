@@ -1,0 +1,20 @@
+{
+    "id": "taco-bell",
+    "name": "Taco Bell",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.tacobell.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "tacobell.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "taco bell",
+        "tacobell"
+    ]
+}

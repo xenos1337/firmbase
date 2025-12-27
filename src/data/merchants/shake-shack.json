@@ -1,0 +1,20 @@
+{
+    "id": "shake-shack",
+    "name": "Shake Shack",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.shakeshack.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "shakeshack.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "shake shack",
+        "shakeshack"
+    ]
+}

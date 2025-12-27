@@ -1,0 +1,21 @@
+{
+    "id": "dunkin",
+    "name": "Dunkin'",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.dunkindonuts.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "dunkindonuts.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "dunkin",
+        "dunkin donuts",
+        "dunkin'"
+    ]
+}

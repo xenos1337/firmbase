@@ -1,0 +1,21 @@
+{
+    "id": "panda-express",
+    "name": "Panda Express",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.pandaexpress.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "pandaexpress.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "panda express",
+        "pandaexpress",
+        "panda"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "burger-king",
+    "name": "Burger King",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.bk.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "bk.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "burger king",
+        "burgerking",
+        "bk"
+    ]
+}

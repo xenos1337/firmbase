@@ -1,0 +1,21 @@
+{
+    "id": "in-n-out",
+    "name": "In-N-Out Burger",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.in-n-out.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "in-n-out.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "in-n-out",
+        "in n out",
+        "in-n-out burger"
+    ]
+}

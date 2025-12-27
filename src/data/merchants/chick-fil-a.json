@@ -1,0 +1,21 @@
+{
+    "id": "chick-fil-a",
+    "name": "Chick-fil-A",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.chick-fil-a.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "chick-fil-a.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "chick-fil-a",
+        "chick fil a",
+        "chickfila"
+    ]
+}

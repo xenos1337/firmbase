@@ -1,0 +1,20 @@
+{
+    "id": "wingstop",
+    "name": "Wingstop",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.wingstop.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "wingstop.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "wingstop",
+        "wing stop"
+    ]
+}

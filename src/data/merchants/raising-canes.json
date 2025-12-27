@@ -1,0 +1,22 @@
+{
+    "id": "raising-canes",
+    "name": "Raising Cane's",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://www.raisingcanes.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "raisingcanes.com"
+    },
+    "merchant_channel": "PHYSICAL",
+    "merchant_scope": "NATIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "raising canes",
+        "raising cane's",
+        "raisingcanes",
+        "canes"
+    ]
+}
