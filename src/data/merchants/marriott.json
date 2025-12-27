@@ -1,0 +1,29 @@
+{
+    "id": "marriott",
+    "name": "Marriott",
+    "category": "TRAVEL",
+    "subcategory": "HOTELS",
+    "website": "https://www.marriott.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "marriott.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "marriott",
+        "marriott bonvoy",
+        "marriott reservation",
+        "marriott international",
+        "moxy",
+        "moxy hotels",
+        "sheraton",
+        "westin",
+        "w hotels",
+        "courtyard marriott",
+        "residence inn"
+    ]
+}
