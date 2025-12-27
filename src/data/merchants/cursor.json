@@ -1,0 +1,21 @@
+{
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://cursor.sh",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "cursor.sh"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "cursor",
+        "cursor ai",
+        "cursor sh"
+    ]
+}

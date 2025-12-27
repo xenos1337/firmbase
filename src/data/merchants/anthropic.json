@@ -1,0 +1,21 @@
+{
+    "id": "anthropic",
+    "name": "Anthropic",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://www.anthropic.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "anthropic.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "anthropic",
+        "claude ai",
+        "claude"
+    ]
+}

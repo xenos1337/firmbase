@@ -1,0 +1,22 @@
+{
+    "id": "openai",
+    "name": "OpenAI",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://openai.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "openai.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "openai",
+        "chatgpt",
+        "chat gpt",
+        "openai chatgpt"
+    ]
+}

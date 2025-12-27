@@ -1,0 +1,21 @@
+{
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://elevenlabs.io",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "elevenlabs.io"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "elevenlabs",
+        "eleven labs",
+        "elevenlabs io"
+    ]
+}
