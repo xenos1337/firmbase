@@ -1,0 +1,24 @@
+{
+    "id": "tesla",
+    "name": "Tesla",
+    "category": "AUTOMOTIVE",
+    "subcategory": "EV_CHARGING",
+    "website": "https://www.tesla.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "tesla.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "tesla",
+        "tesla inc",
+        "tesla motors",
+        "tesla supercharger",
+        "tesla diner",
+        "tesla diner la"
+    ]
+}
