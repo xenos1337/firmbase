@@ -1,0 +1,26 @@
+{
+    "id": "aldi",
+    "name": "Aldi",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://aldi.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "aldi.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "aldi",
+        "aldi sud",
+        "aldi nord",
+        "aldi stores",
+        "aldi inc"
+    ],
+    "regex": [
+        "^aldi"
+    ]
+}
