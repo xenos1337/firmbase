@@ -1,0 +1,27 @@
+{
+    "id": "american-airlines",
+    "name": "American Airlines",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://aa.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "aa.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "american airlines",
+        "american air",
+        "aa com",
+        "american airlines inc",
+        "american air lines"
+    ],
+    "regex": [
+        "^american air",
+        "^aa com"
+    ]
+}
