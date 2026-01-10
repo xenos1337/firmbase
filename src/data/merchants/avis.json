@@ -1,0 +1,26 @@
+{
+    "id": "avis",
+    "name": "Avis",
+    "category": "TRANSPORT",
+    "subcategory": "CAR_RENTAL",
+    "website": "https://avis.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "avis.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "avis",
+        "avis rent a car",
+        "avis car rental",
+        "avis budget",
+        "avis com"
+    ],
+    "regex": [
+        "^avis"
+    ]
+}
