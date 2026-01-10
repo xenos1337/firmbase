@@ -1,0 +1,29 @@
+{
+    "id": "blizzard",
+    "name": "Blizzard Entertainment",
+    "category": "ENTERTAINMENT",
+    "subcategory": "GAMING",
+    "website": "https://blizzard.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "blizzard.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "blizzard",
+        "blizzard entertainment",
+        "battle net",
+        "battlenet",
+        "activision blizzard",
+        "blizzard bnet"
+    ],
+    "regex": [
+        "^blizzard",
+        "^battle.*net",
+        "^activision.*blizzard"
+    ]
+}
