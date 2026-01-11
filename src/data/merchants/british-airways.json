@@ -1,0 +1,26 @@
+{
+    "id": "british-airways",
+    "name": "British Airways",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://britishairways.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "britishairways.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "british airways",
+        "british air",
+        "ba com",
+        "british airways plc"
+    ],
+    "regex": [
+        "^british air",
+        "^ba com"
+    ]
+}
