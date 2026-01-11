@@ -1,0 +1,27 @@
+{
+    "id": "bp",
+    "name": "BP",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://bp.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "bp.com"
+    },
+    "merchant_channel": "IN_STORE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "bp",
+        "bp gas",
+        "bp fuel",
+        "bp station",
+        "british petroleum",
+        "bp amoco"
+    ],
+    "regex": [
+        "^bp "
+    ]
+}
