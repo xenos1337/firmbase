@@ -1,0 +1,27 @@
+{
+    "id": "carls-jr",
+    "name": "Carl's Jr.",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://carlsjr.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "carlsjr.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "carls jr",
+        "carl's jr",
+        "carlsjr",
+        "carls junior",
+        "hardees"
+    ],
+    "regex": [
+        "^carls.*jr",
+        "^hardees"
+    ]
+}
