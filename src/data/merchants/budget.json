@@ -1,0 +1,26 @@
+{
+    "id": "budget",
+    "name": "Budget",
+    "category": "TRANSPORT",
+    "subcategory": "CAR_RENTAL",
+    "website": "https://budget.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "budget.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "budget",
+        "budget rent a car",
+        "budget car rental",
+        "budget com"
+    ],
+    "regex": [
+        "^budget rent",
+        "^budget car"
+    ]
+}
