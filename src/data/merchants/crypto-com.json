@@ -1,0 +1,28 @@
+{
+    "id": "crypto-com",
+    "name": "Crypto.com",
+    "category": "FINANCE",
+    "subcategory": "INVESTMENTS",
+    "website": "https://crypto.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "crypto.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "ELEVATED",
+    "aliases": [
+        "crypto com",
+        "cryptocom",
+        "crypto.com",
+        "foris dax",
+        "foris dax mt",
+        "cro"
+    ],
+    "regex": [
+        "^crypto.*com",
+        "^foris.*dax"
+    ]
+}
