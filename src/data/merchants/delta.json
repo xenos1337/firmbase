@@ -1,0 +1,28 @@
+{
+    "id": "delta",
+    "name": "Delta Air Lines",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://delta.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "delta.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "delta",
+        "delta air lines",
+        "delta airlines",
+        "delta air",
+        "delta com",
+        "delta air lines inc"
+    ],
+    "regex": [
+        "^delta air",
+        "^delta com"
+    ]
+}
