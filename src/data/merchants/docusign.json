@@ -1,0 +1,26 @@
+{
+    "id": "docusign",
+    "name": "DocuSign",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://docusign.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "docusign.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "docusign",
+        "docu sign",
+        "docusign inc",
+        "docusign com"
+    ],
+    "regex": [
+        "^docusign",
+        "^docu.*sign"
+    ]
+}
