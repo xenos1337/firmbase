@@ -1,0 +1,26 @@
+{
+    "id": "dropbox",
+    "name": "Dropbox",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "CLOUD",
+    "website": "https://dropbox.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "dropbox.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "dropbox",
+        "dropbox inc",
+        "dropbox com",
+        "dropbox plus",
+        "dropbox business"
+    ],
+    "regex": [
+        "^dropbox"
+    ]
+}
