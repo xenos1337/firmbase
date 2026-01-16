@@ -1,0 +1,25 @@
+{
+    "id": "equinox",
+    "name": "Equinox",
+    "category": "SPORTS_AND_FITNESS",
+    "subcategory": "GYM",
+    "website": "https://equinox.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "equinox.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "equinox",
+        "equinox fitness",
+        "equinox gym",
+        "equinox holdings"
+    ],
+    "regex": [
+        "^equinox"
+    ]
+}
