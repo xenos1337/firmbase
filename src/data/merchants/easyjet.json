@@ -1,0 +1,27 @@
+{
+    "id": "easyjet",
+    "name": "easyJet",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://easyjet.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "easyjet.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "easyjet",
+        "easy jet",
+        "easyjet com",
+        "easyjet airline",
+        "easyjet plc"
+    ],
+    "regex": [
+        "^easyjet",
+        "^easy.*jet"
+    ]
+}
