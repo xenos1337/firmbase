@@ -1,0 +1,26 @@
+{
+    "id": "geico",
+    "name": "GEICO",
+    "category": "INSURANCE",
+    "subcategory": "AUTO_INSURANCE",
+    "website": "https://geico.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "geico.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "geico",
+        "geico insurance",
+        "geico com",
+        "geico general insurance",
+        "government employees insurance"
+    ],
+    "regex": [
+        "^geico"
+    ]
+}
