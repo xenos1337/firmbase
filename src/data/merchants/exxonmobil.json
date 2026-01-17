@@ -1,0 +1,30 @@
+{
+    "id": "exxonmobil",
+    "name": "ExxonMobil",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://exxon.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "exxon.com"
+    },
+    "merchant_channel": "IN_STORE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "exxon",
+        "mobil",
+        "exxonmobil",
+        "exxon mobil",
+        "esso",
+        "exxon gas",
+        "mobil gas"
+    ],
+    "regex": [
+        "^exxon",
+        "^mobil ",
+        "^esso "
+    ]
+}
