@@ -1,0 +1,27 @@
+{
+    "id": "grubhub",
+    "name": "Grubhub",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "DELIVERY",
+    "website": "https://grubhub.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "grubhub.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "grubhub",
+        "grub hub",
+        "grubhub inc",
+        "grubhub com",
+        "grubhub holdings"
+    ],
+    "regex": [
+        "^grubhub",
+        "^grub.*hub"
+    ]
+}
