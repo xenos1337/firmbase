@@ -1,0 +1,25 @@
+{
+    "id": "gemini",
+    "name": "Gemini",
+    "category": "FINANCE",
+    "subcategory": "INVESTMENTS",
+    "website": "https://gemini.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "gemini.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "ELEVATED",
+    "aliases": [
+        "gemini",
+        "gemini trust",
+        "gemini exchange",
+        "gemini com"
+    ],
+    "regex": [
+        "^gemini"
+    ]
+}
