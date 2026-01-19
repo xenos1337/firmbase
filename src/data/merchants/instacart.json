@@ -1,0 +1,27 @@
+{
+    "id": "instacart",
+    "name": "Instacart",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://instacart.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "instacart.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "instacart",
+        "insta cart",
+        "instacart com",
+        "maplebear inc",
+        "instacart express"
+    ],
+    "regex": [
+        "^instacart",
+        "^maplebear"
+    ]
+}
