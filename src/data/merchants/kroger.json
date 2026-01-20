@@ -1,0 +1,26 @@
+{
+    "id": "kroger",
+    "name": "Kroger",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://kroger.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "kroger.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "kroger",
+        "kroger co",
+        "kroger fuel",
+        "kroger pharmacy",
+        "kroger grocery"
+    ],
+    "regex": [
+        "^kroger"
+    ]
+}
