@@ -1,0 +1,27 @@
+{
+    "id": "jetblue",
+    "name": "JetBlue",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://jetblue.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "jetblue.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "jetblue",
+        "jet blue",
+        "jetblue airways",
+        "jetblue com",
+        "jetblue airways corp"
+    ],
+    "regex": [
+        "^jetblue",
+        "^jet.*blue"
+    ]
+}
