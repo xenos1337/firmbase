@@ -1,0 +1,26 @@
+{
+    "id": "lyft",
+    "name": "Lyft",
+    "category": "TRANSPORT",
+    "subcategory": "RIDE_SHARING",
+    "website": "https://lyft.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lyft.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "lyft",
+        "lyft inc",
+        "lyft ride",
+        "lyft com",
+        "lyft pink"
+    ],
+    "regex": [
+        "^lyft"
+    ]
+}
