@@ -1,0 +1,24 @@
+{
+    "id": "la-fitness",
+    "name": "LA Fitness",
+    "category": "SPORTS_AND_FITNESS",
+    "subcategory": "GYM",
+    "website": "https://lafitness.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "lafitness.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "la fitness",
+        "lafitness",
+        "la fitness international"
+    ],
+    "regex": [
+        "^la.*fitness"
+    ]
+}
