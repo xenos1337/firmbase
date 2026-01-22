@@ -1,0 +1,26 @@
+{
+    "id": "national",
+    "name": "National Car Rental",
+    "category": "TRANSPORT",
+    "subcategory": "CAR_RENTAL",
+    "website": "https://nationalcar.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "nationalcar.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "national car rental",
+        "national rental",
+        "nationalcar",
+        "national car"
+    ],
+    "regex": [
+        "^national.*car",
+        "^national.*rent"
+    ]
+}
