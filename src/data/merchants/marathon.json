@@ -1,0 +1,25 @@
+{
+    "id": "marathon",
+    "name": "Marathon",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://marathonpetroleum.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "marathonpetroleum.com"
+    },
+    "merchant_channel": "IN_STORE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "marathon",
+        "marathon gas",
+        "marathon petroleum",
+        "marathon fuel"
+    ],
+    "regex": [
+        "^marathon"
+    ]
+}
