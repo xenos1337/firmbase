@@ -9,7 +9,7 @@
         "value": "allstate.com"
     },
     "merchant_channel": "HYBRID",
-    "merchant_scope": "REGIONAL",
+    "merchant_scope": "NATIONAL",
     "subscription_likely": true,
     "is_marketplace": false,
     "risk_level": "LOW",
