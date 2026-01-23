@@ -1,0 +1,26 @@
+{
+    "id": "orangetheory",
+    "name": "Orangetheory Fitness",
+    "category": "SPORTS_AND_FITNESS",
+    "subcategory": "GYM",
+    "website": "https://orangetheory.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "orangetheory.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "orangetheory",
+        "orange theory",
+        "orangetheory fitness",
+        "otf"
+    ],
+    "regex": [
+        "^orange.*theory",
+        "^otf "
+    ]
+}
