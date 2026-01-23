@@ -1,0 +1,25 @@
+{
+    "id": "planet-fitness",
+    "name": "Planet Fitness",
+    "category": "SPORTS_AND_FITNESS",
+    "subcategory": "GYM",
+    "website": "https://planetfitness.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "planetfitness.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "planet fitness",
+        "planetfitness",
+        "planet fitness inc",
+        "pf black card"
+    ],
+    "regex": [
+        "^planet.*fitness"
+    ]
+}
