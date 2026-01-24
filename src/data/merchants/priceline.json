@@ -1,0 +1,24 @@
+{
+    "id": "priceline",
+    "name": "Priceline",
+    "category": "TRAVEL",
+    "subcategory": "HOTELS",
+    "website": "https://priceline.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "priceline.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": true,
+    "risk_level": "LOW",
+    "aliases": [
+        "priceline",
+        "priceline com",
+        "priceline travel"
+    ],
+    "regex": [
+        "^priceline"
+    ]
+}
