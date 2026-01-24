@@ -1,0 +1,25 @@
+{
+    "id": "popeyes",
+    "name": "Popeyes",
+    "category": "FOOD_AND_DRINK",
+    "subcategory": "FAST_FOOD",
+    "website": "https://popeyes.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "popeyes.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "popeyes",
+        "popeyes louisiana kitchen",
+        "popeyes chicken",
+        "popeyes com"
+    ],
+    "regex": [
+        "^popeyes"
+    ]
+}
