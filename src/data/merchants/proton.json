@@ -1,0 +1,32 @@
+{
+    "id": "proton",
+    "name": "Proton",
+    "category": "DIGITAL_SERVICES",
+    "subcategory": "SOFTWARE",
+    "website": "https://proton.me",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "proton.me"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "proton",
+        "proton ag",
+        "protonmail",
+        "proton mail",
+        "protonvpn",
+        "proton vpn",
+        "protondrive",
+        "proton drive",
+        "proton calendar",
+        "proton pass",
+        "proton me"
+    ],
+    "regex": [
+        "^proton"
+    ]
+}
