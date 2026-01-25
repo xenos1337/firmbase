@@ -1,0 +1,26 @@
+{
+    "id": "progressive",
+    "name": "Progressive",
+    "category": "INSURANCE",
+    "subcategory": "AUTO_INSURANCE",
+    "website": "https://progressive.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "progressive.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "progressive",
+        "progressive insurance",
+        "progressive com",
+        "progressive casualty",
+        "progressive corp"
+    ],
+    "regex": [
+        "^progressive"
+    ]
+}
