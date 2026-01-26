@@ -1,0 +1,25 @@
+{
+    "id": "publix",
+    "name": "Publix",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://publix.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "publix.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "publix",
+        "publix super markets",
+        "publix supermarket",
+        "publix pharmacy"
+    ],
+    "regex": [
+        "^publix"
+    ]
+}
