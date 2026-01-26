@@ -1,0 +1,26 @@
+{
+    "id": "ryanair",
+    "name": "Ryanair",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://ryanair.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "ryanair.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "ryanair",
+        "ryanair ltd",
+        "ryanair com",
+        "ryanair dac",
+        "ryanair holdings"
+    ],
+    "regex": [
+        "^ryanair"
+    ]
+}
