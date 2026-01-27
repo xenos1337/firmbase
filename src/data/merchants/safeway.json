@@ -1,0 +1,26 @@
+{
+    "id": "safeway",
+    "name": "Safeway",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://safeway.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "safeway.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "safeway",
+        "safeway inc",
+        "safeway fuel",
+        "safeway pharmacy",
+        "safeway grocery"
+    ],
+    "regex": [
+        "^safeway"
+    ]
+}
