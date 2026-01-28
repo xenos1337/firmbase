@@ -1,0 +1,27 @@
+{
+    "id": "southwest",
+    "name": "Southwest Airlines",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://southwest.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "southwest.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "southwest",
+        "southwest airlines",
+        "southwest air",
+        "southwest com",
+        "southwest airlines co"
+    ],
+    "regex": [
+        "^southwest air",
+        "^southwest com"
+    ]
+}
