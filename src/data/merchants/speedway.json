@@ -1,0 +1,25 @@
+{
+    "id": "speedway",
+    "name": "Speedway",
+    "category": "AUTOMOTIVE",
+    "subcategory": "GAS_STATION",
+    "website": "https://speedway.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "speedway.com"
+    },
+    "merchant_channel": "IN_STORE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "speedway",
+        "speedway gas",
+        "speedway fuel",
+        "speedway llc"
+    ],
+    "regex": [
+        "^speedway"
+    ]
+}
