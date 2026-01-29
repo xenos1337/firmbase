@@ -1,0 +1,26 @@
+{
+    "id": "state-farm",
+    "name": "State Farm",
+    "category": "INSURANCE",
+    "subcategory": "AUTO_INSURANCE",
+    "website": "https://statefarm.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "statefarm.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "state farm",
+        "statefarm",
+        "state farm insurance",
+        "state farm mutual",
+        "state farm com"
+    ],
+    "regex": [
+        "^state.*farm"
+    ]
+}
