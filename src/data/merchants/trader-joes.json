@@ -1,0 +1,25 @@
+{
+    "id": "trader-joes",
+    "name": "Trader Joe's",
+    "category": "GROCERIES",
+    "subcategory": "SUPERMARKET",
+    "website": "https://traderjoes.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "traderjoes.com"
+    },
+    "merchant_channel": "IN_STORE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "trader joes",
+        "trader joe",
+        "traderjoes",
+        "trader joes company"
+    ],
+    "regex": [
+        "^trader.*joe"
+    ]
+}
