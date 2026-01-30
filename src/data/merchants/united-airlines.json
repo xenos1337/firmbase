@@ -1,0 +1,28 @@
+{
+    "id": "united-airlines",
+    "name": "United Airlines",
+    "category": "TRANSPORT",
+    "subcategory": "AIRLINE",
+    "website": "https://united.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "united.com"
+    },
+    "merchant_channel": "HYBRID",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "united airlines",
+        "united air",
+        "united com",
+        "united air lines",
+        "ual",
+        "united airlines inc"
+    ],
+    "regex": [
+        "^united air",
+        "^ual "
+    ]
+}
