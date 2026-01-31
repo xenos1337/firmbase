@@ -1,0 +1,26 @@
+{
+    "id": "venmo",
+    "name": "Venmo",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://venmo.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "venmo.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "venmo",
+        "venmo com",
+        "venmo payment",
+        "venmo transfer",
+        "venmo llc"
+    ],
+    "regex": [
+        "^venmo"
+    ]
+}
