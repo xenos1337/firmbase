@@ -1,0 +1,29 @@
+{
+    "id": "youtube",
+    "name": "YouTube",
+    "category": "ENTERTAINMENT",
+    "subcategory": "STREAMING",
+    "website": "https://youtube.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "youtube.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "GLOBAL",
+    "subscription_likely": true,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "youtube",
+        "youtube premium",
+        "youtube music",
+        "youtube tv",
+        "youtubetv",
+        "youtube com",
+        "youtube red",
+        "google youtube"
+    ],
+    "regex": [
+        "^youtube"
+    ]
+}
