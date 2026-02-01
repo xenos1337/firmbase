@@ -1,0 +1,26 @@
+{
+    "id": "zelle",
+    "name": "Zelle",
+    "category": "FINANCE",
+    "subcategory": "TRANSFERS",
+    "website": "https://zellepay.com",
+    "logo_hint": {
+        "type": "DOMAIN",
+        "value": "zellepay.com"
+    },
+    "merchant_channel": "ONLINE",
+    "merchant_scope": "REGIONAL",
+    "subscription_likely": false,
+    "is_marketplace": false,
+    "risk_level": "LOW",
+    "aliases": [
+        "zelle",
+        "zelle pay",
+        "zellepay",
+        "zelle transfer",
+        "zelle payment"
+    ],
+    "regex": [
+        "^zelle"
+    ]
+}
